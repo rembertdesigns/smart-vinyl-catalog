@@ -205,3 +205,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Google Cloud and BigQuery
+service-account-key.json
+*.json
+.env
+.env.local
+
+# Large data files
+data/raw/discogs_dumps/
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.parquet
+data/processed/*.parquet
+*.zip
+*.tar.gz
+
+# Jupyter notebook outputs
+*.ipynb_checkpoints
+
+# BigQuery temporary files
+temp_*.sql
+query_*.sql
+
+# OS specific
+.DS_Store
