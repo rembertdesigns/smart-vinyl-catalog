@@ -15,12 +15,13 @@ class BigQueryConfig:
         """Initialize BigQuery client with credentials."""
         credentials_path = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
         
-        if credentials_path:
+        if credentials_path and os.path.exists(credentials_path):
             credentials = service_account.Credentials.from_service_account_file(
                 credentials_path
             )
             return bigquery.Client(credentials=credentials, project=self.project_id)
         else:
+            # Fallback to default credentials
             return bigquery.Client(project=self.project_id)
     
     def get_table_id(self, table_name):
