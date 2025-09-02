@@ -221,6 +221,10 @@ data/processed/*.parquet
 *.zip
 *.tar.gz
 
+# FMA dataset files
+data/raw/fma/
+data/processed/fma_integrated.csv
+
 # Jupyter notebook outputs
 *.ipynb_checkpoints
 
