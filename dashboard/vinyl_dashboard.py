@@ -16,6 +16,7 @@ from pathlib import Path
 # Suppress pandas warnings
 warnings.filterwarnings('ignore', category=pd.errors.SettingWithCopyWarning)
 warnings.filterwarnings('ignore', category=pd.errors.PerformanceWarning)
+warnings.filterwarnings('ignore', category=pd.errors.DtypeWarning)
 
 st.set_page_config(
     page_title="Smart Vinyl Catalog Pro", 
@@ -39,7 +40,7 @@ def clean_dataframe_types(df):
     df = df.copy()
     
     # Ensure string columns are strings
-    string_columns = ['title', 'artist', 'genre', 'label', 'source', 'review_text']
+    string_columns = ['title', 'artist', 'genre', 'label', 'source', 'review_text', 'country', 'format']
     for col in string_columns:
         if col in df.columns:
             df[col] = df[col].fillna('Unknown').astype(str)
@@ -62,7 +63,8 @@ def load_combined_dataset():
     
     if final_combined_path.exists():
         try:
-            catalog_df = pd.read_csv(final_combined_path)
+            # Fix: Add low_memory=False to prevent DtypeWarning
+            catalog_df = pd.read_csv(final_combined_path, low_memory=False)
             catalog_df = clean_dataframe_types(catalog_df)
             
             # Count records by source
@@ -83,7 +85,7 @@ def load_combined_dataset():
     
     if combined_path.exists():
         try:
-            catalog_df = pd.read_csv(combined_path)
+            catalog_df = pd.read_csv(combined_path, low_memory=False)
             catalog_df = clean_dataframe_types(catalog_df)
             
             source_counts = catalog_df['source'].value_counts() if 'source' in catalog_df.columns else {}
@@ -102,7 +104,7 @@ def load_combined_dataset():
     fma_path = Path("data/processed/fma_integrated.csv")
     if fma_path.exists():
         try:
-            catalog_df = pd.read_csv(fma_path)
+            catalog_df = pd.read_csv(fma_path, low_memory=False)
             catalog_df = clean_dataframe_types(catalog_df)
             
             # Ensure source column exists
@@ -507,7 +509,7 @@ with tab1:
                             with col4:
                                 if 'similarity_score' in row:
                                     match_pct = float(row.get('similarity_score', 0)) * 100
-                                    st.metric("Match", f"{match_pct:.0f}%")
+                                    st.metric("Match %", f"{match_pct:.0f}%")
                                     
                                     # Color-coded match quality
                                     if match_pct >= 80:
@@ -836,7 +838,7 @@ with tab4:
                             if 'year' in track:
                                 st.caption(f"📅 {track['year']}")
                         with col_b:
-                            st.metric("", f"{track['rating']:.1f}⭐")
+                            st.metric("Track Rating", f"{track['rating']:.1f}⭐")
 
 with tab5:
     st.header("👥 Social Music Insights")

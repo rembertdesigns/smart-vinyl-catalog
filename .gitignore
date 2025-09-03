@@ -264,3 +264,8 @@ data/processed/real_discogs_sample.csv
 data/processed/discogs_real_catalog.csv
 data/processed/fma_data_catalog.csv
 data/processed/high_quality_catalog.csv
+data/processed/filtered_catalog.csv
+data/processed/final_enriched_catalog.csv
+data/processed/processed_artists.csv
+data/processed/processed_labels.csv
+data/processed/processed_masters.csv
