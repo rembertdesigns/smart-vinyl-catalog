@@ -1,0 +1,1001 @@
+discogs_id,title,artist,label,year,genre,country,format,rating,catalog_number,status,source
+discogs_1,Kind of Blue,Miles Davis,Columbia,1959,Jazz,US,"12""",3.5,CAT-1000,Accepted,discogs_sample
+discogs_2,Pet Sounds,The Beach Boys,Capitol,1966,Pop,US,LP,5.0,CAT-1001,Accepted,discogs_sample
+discogs_3,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Parlophone,1967,Rock,UK,"12""",3.8,CAT-1002,Accepted,discogs_sample
+discogs_4,What's Going On,Marvin Gaye,Tamla,1971,Soul,US,LP,3.5,CAT-1003,Accepted,discogs_sample
+discogs_5,The Dark Side of the Moon,Pink Floyd,Harvest,1973,Progressive Rock,UK,LP,4.6,CAT-1004,Accepted,discogs_sample
+discogs_6,Songs in the Key of Life,Stevie Wonder,Tamla,1976,Soul,US,LP,2.9,CAT-1005,Accepted,discogs_sample
+discogs_7,Rumours,Fleetwood Mac,Warner Bros.,1977,Rock,US,LP,3.3,CAT-1006,Accepted,discogs_sample
+discogs_8,Unknown Pleasures,Joy Division,Factory,1979,Post-Punk,UK,LP,5.0,CAT-1007,Accepted,discogs_sample
+discogs_9,London Calling,The Clash,CBS,1979,Punk,UK,"12""",4.3,CAT-1008,Accepted,discogs_sample
+discogs_10,Purple Rain,Prince,Warner Bros.,1984,Pop,US,LP,3.5,CAT-1009,Accepted,discogs_sample
+discogs_11,Kind of Blue,Miles Davis,Columbia,1959,Jazz,US,"12""",3.9,CAT-1010,Accepted,discogs_sample
+discogs_12,Pet Sounds,The Beach Boys,Capitol,1966,Pop,US,LP,3.9,CAT-1011,Accepted,discogs_sample
+discogs_13,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Parlophone,1967,Rock,UK,LP,3.7,CAT-1012,Accepted,discogs_sample
+discogs_14,What's Going On,Marvin Gaye,Tamla,1971,Soul,US,LP,4.3,CAT-1013,Accepted,discogs_sample
+discogs_15,The Dark Side of the Moon,Pink Floyd,Harvest,1973,Progressive Rock,UK,LP,3.5,CAT-1014,Accepted,discogs_sample
+discogs_16,Songs in the Key of Life,Stevie Wonder,Tamla,1976,Soul,US,LP,3.1,CAT-1015,Accepted,discogs_sample
+discogs_17,Rumours,Fleetwood Mac,Warner Bros.,1977,Rock,US,LP,3.7,CAT-1016,Accepted,discogs_sample
+discogs_18,Unknown Pleasures,Joy Division,Factory,1979,Post-Punk,UK,"12""",2.9,CAT-1017,Accepted,discogs_sample
+discogs_19,London Calling,The Clash,CBS,1979,Punk,UK,LP,3.8,CAT-1018,Accepted,discogs_sample
+discogs_20,Purple Rain,Prince,Warner Bros.,1984,Pop,US,LP,4.7,CAT-1019,Accepted,discogs_sample
+discogs_21,Kind of Blue,Miles Davis,Columbia,1959,Jazz,US,"12""",4.4,CAT-1020,Accepted,discogs_sample
+discogs_22,Pet Sounds,The Beach Boys,Capitol,1966,Pop,US,LP,4.1,CAT-1021,Accepted,discogs_sample
+discogs_23,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Parlophone,1967,Rock,UK,LP,4.7,CAT-1022,Accepted,discogs_sample
+discogs_24,What's Going On,Marvin Gaye,Tamla,1971,Soul,US,LP,4.0,CAT-1023,Accepted,discogs_sample
+discogs_25,The Dark Side of the Moon,Pink Floyd,Harvest,1973,Progressive Rock,UK,"12""",4.2,CAT-1024,Accepted,discogs_sample
+discogs_26,Songs in the Key of Life,Stevie Wonder,Tamla,1976,Soul,US,LP,5.0,CAT-1025,Accepted,discogs_sample
+discogs_27,Rumours,Fleetwood Mac,Warner Bros.,1977,Rock,US,"12""",3.5,CAT-1026,Accepted,discogs_sample
+discogs_28,Unknown Pleasures,Joy Division,Factory,1979,Post-Punk,UK,LP,5.0,CAT-1027,Accepted,discogs_sample
+discogs_29,London Calling,The Clash,CBS,1979,Punk,UK,LP,4.4,CAT-1028,Accepted,discogs_sample
+discogs_30,Purple Rain,Prince,Warner Bros.,1984,Pop,US,LP,4.0,CAT-1029,Accepted,discogs_sample
+discogs_31,Kind of Blue,Miles Davis,Columbia,1959,Jazz,US,"12""",3.9,CAT-1030,Accepted,discogs_sample
+discogs_32,Pet Sounds,The Beach Boys,Capitol,1966,Pop,US,LP,4.1,CAT-1031,Accepted,discogs_sample
+discogs_33,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Parlophone,1967,Rock,UK,"12""",2.7,CAT-1032,Accepted,discogs_sample
+discogs_34,What's Going On,Marvin Gaye,Tamla,1971,Soul,US,LP,4.6,CAT-1033,Accepted,discogs_sample
+discogs_35,The Dark Side of the Moon,Pink Floyd,Harvest,1973,Progressive Rock,UK,"12""",3.6,CAT-1034,Accepted,discogs_sample
+discogs_36,Songs in the Key of Life,Stevie Wonder,Tamla,1976,Soul,US,LP,5.0,CAT-1035,Accepted,discogs_sample
+discogs_37,Rumours,Fleetwood Mac,Warner Bros.,1977,Rock,US,LP,5.0,CAT-1036,Accepted,discogs_sample
+discogs_38,Unknown Pleasures,Joy Division,Factory,1979,Post-Punk,UK,LP,4.4,CAT-1037,Accepted,discogs_sample
+discogs_39,London Calling,The Clash,CBS,1979,Punk,UK,LP,4.1,CAT-1038,Accepted,discogs_sample
+discogs_40,Purple Rain,Prince,Warner Bros.,1984,Pop,US,"12""",3.0,CAT-1039,Accepted,discogs_sample
+discogs_41,Kind of Blue,Miles Davis,Columbia,1959,Jazz,US,LP,5.0,CAT-1040,Accepted,discogs_sample
+discogs_42,Pet Sounds,The Beach Boys,Capitol,1966,Pop,US,LP,2.8,CAT-1041,Accepted,discogs_sample
+discogs_43,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Parlophone,1967,Rock,UK,LP,4.8,CAT-1042,Accepted,discogs_sample
+discogs_44,What's Going On,Marvin Gaye,Tamla,1971,Soul,US,LP,4.3,CAT-1043,Accepted,discogs_sample
+discogs_45,The Dark Side of the Moon,Pink Floyd,Harvest,1973,Progressive Rock,UK,"12""",4.3,CAT-1044,Accepted,discogs_sample
+discogs_46,Songs in the Key of Life,Stevie Wonder,Tamla,1976,Soul,US,LP,4.2,CAT-1045,Accepted,discogs_sample
+discogs_47,Rumours,Fleetwood Mac,Warner Bros.,1977,Rock,US,LP,4.7,CAT-1046,Accepted,discogs_sample
+discogs_48,Unknown Pleasures,Joy Division,Factory,1979,Post-Punk,UK,"7""",3.8,CAT-1047,Accepted,discogs_sample
+discogs_49,London Calling,The Clash,CBS,1979,Punk,UK,"7""",4.5,CAT-1048,Accepted,discogs_sample
+discogs_50,Purple Rain,Prince,Warner Bros.,1984,Pop,US,LP,3.6,CAT-1049,Accepted,discogs_sample
+discogs_51,Kind of Blue (Reissue 1),Miles Davis,Columbia,1959,Jazz,US,"7""",3.4,CAT-1050,Accepted,discogs_sample
+discogs_52,Pet Sounds (Reissue 1),The Beach Boys,Capitol,1966,Pop,US,LP,4.2,CAT-1051,Accepted,discogs_sample
+discogs_53,Sgt. Pepper's Lonely Hearts Club Band (Reissue 1),The Beatles,Parlophone,1967,Rock,UK,"7""",4.1,CAT-1052,Accepted,discogs_sample
+discogs_54,What's Going On (Reissue 1),Marvin Gaye,Tamla,1971,Soul,US,"12""",3.6,CAT-1053,Accepted,discogs_sample
+discogs_55,The Dark Side of the Moon (Reissue 1),Pink Floyd,Harvest,1973,Progressive Rock,UK,"7""",3.5,CAT-1054,Accepted,discogs_sample
+discogs_56,Songs in the Key of Life (Reissue 1),Stevie Wonder,Tamla,1976,Soul,US,"12""",5.0,CAT-1055,Accepted,discogs_sample
+discogs_57,Rumours (Reissue 1),Fleetwood Mac,Warner Bros.,1977,Rock,US,"12""",3.3,CAT-1056,Accepted,discogs_sample
+discogs_58,Unknown Pleasures (Reissue 1),Joy Division,Factory,1979,Post-Punk,UK,LP,4.1,CAT-1057,Accepted,discogs_sample
+discogs_59,London Calling (Reissue 1),The Clash,CBS,1979,Punk,UK,"7""",3.4,CAT-1058,Accepted,discogs_sample
+discogs_60,Purple Rain (Reissue 1),Prince,Warner Bros.,1984,Pop,US,LP,3.7,CAT-1059,Accepted,discogs_sample
+discogs_61,Kind of Blue (Reissue 1),Miles Davis,Columbia,1959,Jazz,US,LP,4.7,CAT-1060,Accepted,discogs_sample
+discogs_62,Pet Sounds (Reissue 1),The Beach Boys,Capitol,1966,Pop,US,LP,4.3,CAT-1061,Accepted,discogs_sample
+discogs_63,Sgt. Pepper's Lonely Hearts Club Band (Reissue 1),The Beatles,Parlophone,1967,Rock,UK,"12""",3.9,CAT-1062,Accepted,discogs_sample
+discogs_64,What's Going On (Reissue 1),Marvin Gaye,Tamla,1971,Soul,US,LP,3.8,CAT-1063,Accepted,discogs_sample
+discogs_65,The Dark Side of the Moon (Reissue 1),Pink Floyd,Harvest,1973,Progressive Rock,UK,"7""",5.0,CAT-1064,Accepted,discogs_sample
+discogs_66,Songs in the Key of Life (Reissue 1),Stevie Wonder,Tamla,1976,Soul,US,LP,4.0,CAT-1065,Accepted,discogs_sample
+discogs_67,Rumours (Reissue 1),Fleetwood Mac,Warner Bros.,1977,Rock,US,LP,4.8,CAT-1066,Accepted,discogs_sample
+discogs_68,Unknown Pleasures (Reissue 1),Joy Division,Factory,1979,Post-Punk,UK,LP,4.5,CAT-1067,Accepted,discogs_sample
+discogs_69,London Calling (Reissue 1),The Clash,CBS,1979,Punk,UK,LP,4.0,CAT-1068,Accepted,discogs_sample
+discogs_70,Purple Rain (Reissue 1),Prince,Warner Bros.,1984,Pop,US,LP,3.1,CAT-1069,Accepted,discogs_sample
+discogs_71,Kind of Blue (Reissue 1),Miles Davis,Columbia,1959,Jazz,US,LP,3.9,CAT-1070,Accepted,discogs_sample
+discogs_72,Pet Sounds (Reissue 1),The Beach Boys,Capitol,1966,Pop,US,LP,2.9,CAT-1071,Accepted,discogs_sample
+discogs_73,Sgt. Pepper's Lonely Hearts Club Band (Reissue 1),The Beatles,Parlophone,1967,Rock,UK,LP,4.0,CAT-1072,Accepted,discogs_sample
+discogs_74,What's Going On (Reissue 1),Marvin Gaye,Tamla,1971,Soul,US,"12""",3.8,CAT-1073,Accepted,discogs_sample
+discogs_75,The Dark Side of the Moon (Reissue 1),Pink Floyd,Harvest,1973,Progressive Rock,UK,LP,4.7,CAT-1074,Accepted,discogs_sample
+discogs_76,Songs in the Key of Life (Reissue 1),Stevie Wonder,Tamla,1976,Soul,US,LP,5.0,CAT-1075,Accepted,discogs_sample
+discogs_77,Rumours (Reissue 1),Fleetwood Mac,Warner Bros.,1977,Rock,US,"12""",4.6,CAT-1076,Accepted,discogs_sample
+discogs_78,Unknown Pleasures (Reissue 1),Joy Division,Factory,1979,Post-Punk,UK,"12""",4.2,CAT-1077,Accepted,discogs_sample
+discogs_79,London Calling (Reissue 1),The Clash,CBS,1979,Punk,UK,LP,4.9,CAT-1078,Accepted,discogs_sample
+discogs_80,Purple Rain (Reissue 1),Prince,Warner Bros.,1984,Pop,US,LP,4.1,CAT-1079,Accepted,discogs_sample
+discogs_81,Kind of Blue (Reissue 1),Miles Davis,Columbia,1959,Jazz,US,LP,3.6,CAT-1080,Accepted,discogs_sample
+discogs_82,Pet Sounds (Reissue 1),The Beach Boys,Capitol,1966,Pop,US,"12""",4.2,CAT-1081,Accepted,discogs_sample
+discogs_83,Sgt. Pepper's Lonely Hearts Club Band (Reissue 1),The Beatles,Parlophone,1967,Rock,UK,LP,4.7,CAT-1082,Accepted,discogs_sample
+discogs_84,What's Going On (Reissue 1),Marvin Gaye,Tamla,1971,Soul,US,LP,3.4,CAT-1083,Accepted,discogs_sample
+discogs_85,The Dark Side of the Moon (Reissue 1),Pink Floyd,Harvest,1973,Progressive Rock,UK,"12""",3.5,CAT-1084,Accepted,discogs_sample
+discogs_86,Songs in the Key of Life (Reissue 1),Stevie Wonder,Tamla,1976,Soul,US,LP,4.4,CAT-1085,Accepted,discogs_sample
+discogs_87,Rumours (Reissue 1),Fleetwood Mac,Warner Bros.,1977,Rock,US,"12""",4.2,CAT-1086,Accepted,discogs_sample
+discogs_88,Unknown Pleasures (Reissue 1),Joy Division,Factory,1979,Post-Punk,UK,"7""",5.0,CAT-1087,Accepted,discogs_sample
+discogs_89,London Calling (Reissue 1),The Clash,CBS,1979,Punk,UK,LP,3.9,CAT-1088,Accepted,discogs_sample
+discogs_90,Purple Rain (Reissue 1),Prince,Warner Bros.,1984,Pop,US,LP,4.4,CAT-1089,Accepted,discogs_sample
+discogs_91,Kind of Blue (Reissue 1),Miles Davis,Columbia,1959,Jazz,US,"12""",4.8,CAT-1090,Accepted,discogs_sample
+discogs_92,Pet Sounds (Reissue 1),The Beach Boys,Capitol,1966,Pop,US,LP,3.1,CAT-1091,Accepted,discogs_sample
+discogs_93,Sgt. Pepper's Lonely Hearts Club Band (Reissue 1),The Beatles,Parlophone,1967,Rock,UK,LP,4.1,CAT-1092,Accepted,discogs_sample
+discogs_94,What's Going On (Reissue 1),Marvin Gaye,Tamla,1971,Soul,US,LP,3.8,CAT-1093,Accepted,discogs_sample
+discogs_95,The Dark Side of the Moon (Reissue 1),Pink Floyd,Harvest,1973,Progressive Rock,UK,LP,4.5,CAT-1094,Accepted,discogs_sample
+discogs_96,Songs in the Key of Life (Reissue 1),Stevie Wonder,Tamla,1976,Soul,US,LP,3.4,CAT-1095,Accepted,discogs_sample
+discogs_97,Rumours (Reissue 1),Fleetwood Mac,Warner Bros.,1977,Rock,US,LP,4.6,CAT-1096,Accepted,discogs_sample
+discogs_98,Unknown Pleasures (Reissue 1),Joy Division,Factory,1979,Post-Punk,UK,"12""",5.0,CAT-1097,Accepted,discogs_sample
+discogs_99,London Calling (Reissue 1),The Clash,CBS,1979,Punk,UK,LP,5.0,CAT-1098,Accepted,discogs_sample
+discogs_100,Purple Rain (Reissue 1),Prince,Warner Bros.,1984,Pop,US,LP,3.9,CAT-1099,Accepted,discogs_sample
+discogs_101,Kind of Blue (Reissue 2),Miles Davis,Columbia,1960,Jazz,US,LP,3.4,CAT-1100,Accepted,discogs_sample
+discogs_102,Pet Sounds (Reissue 2),The Beach Boys,Capitol,1967,Pop,US,LP,3.7,CAT-1101,Accepted,discogs_sample
+discogs_103,Sgt. Pepper's Lonely Hearts Club Band (Reissue 2),The Beatles,Parlophone,1968,Rock,UK,"12""",4.3,CAT-1102,Accepted,discogs_sample
+discogs_104,What's Going On (Reissue 2),Marvin Gaye,Tamla,1972,Soul,US,LP,4.5,CAT-1103,Accepted,discogs_sample
+discogs_105,The Dark Side of the Moon (Reissue 2),Pink Floyd,Harvest,1974,Progressive Rock,UK,"12""",3.3,CAT-1104,Accepted,discogs_sample
+discogs_106,Songs in the Key of Life (Reissue 2),Stevie Wonder,Tamla,1977,Soul,US,LP,3.4,CAT-1105,Accepted,discogs_sample
+discogs_107,Rumours (Reissue 2),Fleetwood Mac,Warner Bros.,1978,Rock,US,LP,3.9,CAT-1106,Accepted,discogs_sample
+discogs_108,Unknown Pleasures (Reissue 2),Joy Division,Factory,1980,Post-Punk,UK,LP,4.5,CAT-1107,Accepted,discogs_sample
+discogs_109,London Calling (Reissue 2),The Clash,CBS,1980,Punk,UK,"12""",4.4,CAT-1108,Accepted,discogs_sample
+discogs_110,Purple Rain (Reissue 2),Prince,Warner Bros.,1985,Pop,US,LP,3.3,CAT-1109,Accepted,discogs_sample
+discogs_111,Kind of Blue (Reissue 2),Miles Davis,Columbia,1960,Jazz,US,"12""",3.5,CAT-1110,Accepted,discogs_sample
+discogs_112,Pet Sounds (Reissue 2),The Beach Boys,Capitol,1967,Pop,US,"12""",3.7,CAT-1111,Accepted,discogs_sample
+discogs_113,Sgt. Pepper's Lonely Hearts Club Band (Reissue 2),The Beatles,Parlophone,1968,Rock,UK,"7""",3.3,CAT-1112,Accepted,discogs_sample
+discogs_114,What's Going On (Reissue 2),Marvin Gaye,Tamla,1972,Soul,US,LP,3.4,CAT-1113,Accepted,discogs_sample
+discogs_115,The Dark Side of the Moon (Reissue 2),Pink Floyd,Harvest,1974,Progressive Rock,UK,LP,5.0,CAT-1114,Accepted,discogs_sample
+discogs_116,Songs in the Key of Life (Reissue 2),Stevie Wonder,Tamla,1977,Soul,US,LP,4.4,CAT-1115,Accepted,discogs_sample
+discogs_117,Rumours (Reissue 2),Fleetwood Mac,Warner Bros.,1978,Rock,US,LP,4.8,CAT-1116,Accepted,discogs_sample
+discogs_118,Unknown Pleasures (Reissue 2),Joy Division,Factory,1980,Post-Punk,UK,LP,4.0,CAT-1117,Accepted,discogs_sample
+discogs_119,London Calling (Reissue 2),The Clash,CBS,1980,Punk,UK,LP,5.0,CAT-1118,Accepted,discogs_sample
+discogs_120,Purple Rain (Reissue 2),Prince,Warner Bros.,1985,Pop,US,LP,3.7,CAT-1119,Accepted,discogs_sample
+discogs_121,Kind of Blue (Reissue 2),Miles Davis,Columbia,1960,Jazz,US,LP,3.1,CAT-1120,Accepted,discogs_sample
+discogs_122,Pet Sounds (Reissue 2),The Beach Boys,Capitol,1967,Pop,US,LP,3.9,CAT-1121,Accepted,discogs_sample
+discogs_123,Sgt. Pepper's Lonely Hearts Club Band (Reissue 2),The Beatles,Parlophone,1968,Rock,UK,LP,4.5,CAT-1122,Accepted,discogs_sample
+discogs_124,What's Going On (Reissue 2),Marvin Gaye,Tamla,1972,Soul,US,"7""",3.8,CAT-1123,Accepted,discogs_sample
+discogs_125,The Dark Side of the Moon (Reissue 2),Pink Floyd,Harvest,1974,Progressive Rock,UK,"12""",4.1,CAT-1124,Accepted,discogs_sample
+discogs_126,Songs in the Key of Life (Reissue 2),Stevie Wonder,Tamla,1977,Soul,US,LP,3.5,CAT-1125,Accepted,discogs_sample
+discogs_127,Rumours (Reissue 2),Fleetwood Mac,Warner Bros.,1978,Rock,US,"12""",4.0,CAT-1126,Accepted,discogs_sample
+discogs_128,Unknown Pleasures (Reissue 2),Joy Division,Factory,1980,Post-Punk,UK,LP,2.9,CAT-1127,Accepted,discogs_sample
+discogs_129,London Calling (Reissue 2),The Clash,CBS,1980,Punk,UK,LP,4.6,CAT-1128,Accepted,discogs_sample
+discogs_130,Purple Rain (Reissue 2),Prince,Warner Bros.,1985,Pop,US,LP,4.2,CAT-1129,Accepted,discogs_sample
+discogs_131,Kind of Blue (Reissue 2),Miles Davis,Columbia,1960,Jazz,US,LP,4.2,CAT-1130,Accepted,discogs_sample
+discogs_132,Pet Sounds (Reissue 2),The Beach Boys,Capitol,1967,Pop,US,"12""",3.3,CAT-1131,Accepted,discogs_sample
+discogs_133,Sgt. Pepper's Lonely Hearts Club Band (Reissue 2),The Beatles,Parlophone,1968,Rock,UK,"12""",3.3,CAT-1132,Accepted,discogs_sample
+discogs_134,What's Going On (Reissue 2),Marvin Gaye,Tamla,1972,Soul,US,"12""",5.0,CAT-1133,Accepted,discogs_sample
+discogs_135,The Dark Side of the Moon (Reissue 2),Pink Floyd,Harvest,1974,Progressive Rock,UK,LP,4.6,CAT-1134,Accepted,discogs_sample
+discogs_136,Songs in the Key of Life (Reissue 2),Stevie Wonder,Tamla,1977,Soul,US,LP,4.4,CAT-1135,Accepted,discogs_sample
+discogs_137,Rumours (Reissue 2),Fleetwood Mac,Warner Bros.,1978,Rock,US,"7""",4.1,CAT-1136,Accepted,discogs_sample
+discogs_138,Unknown Pleasures (Reissue 2),Joy Division,Factory,1980,Post-Punk,UK,LP,4.0,CAT-1137,Accepted,discogs_sample
+discogs_139,London Calling (Reissue 2),The Clash,CBS,1980,Punk,UK,"12""",3.7,CAT-1138,Accepted,discogs_sample
+discogs_140,Purple Rain (Reissue 2),Prince,Warner Bros.,1985,Pop,US,"7""",4.8,CAT-1139,Accepted,discogs_sample
+discogs_141,Kind of Blue (Reissue 2),Miles Davis,Columbia,1960,Jazz,US,LP,4.5,CAT-1140,Accepted,discogs_sample
+discogs_142,Pet Sounds (Reissue 2),The Beach Boys,Capitol,1967,Pop,US,LP,5.0,CAT-1141,Accepted,discogs_sample
+discogs_143,Sgt. Pepper's Lonely Hearts Club Band (Reissue 2),The Beatles,Parlophone,1968,Rock,UK,LP,3.8,CAT-1142,Accepted,discogs_sample
+discogs_144,What's Going On (Reissue 2),Marvin Gaye,Tamla,1972,Soul,US,LP,3.3,CAT-1143,Accepted,discogs_sample
+discogs_145,The Dark Side of the Moon (Reissue 2),Pink Floyd,Harvest,1974,Progressive Rock,UK,LP,3.4,CAT-1144,Accepted,discogs_sample
+discogs_146,Songs in the Key of Life (Reissue 2),Stevie Wonder,Tamla,1977,Soul,US,"12""",2.9,CAT-1145,Accepted,discogs_sample
+discogs_147,Rumours (Reissue 2),Fleetwood Mac,Warner Bros.,1978,Rock,US,LP,3.5,CAT-1146,Accepted,discogs_sample
+discogs_148,Unknown Pleasures (Reissue 2),Joy Division,Factory,1980,Post-Punk,UK,LP,3.8,CAT-1147,Accepted,discogs_sample
+discogs_149,London Calling (Reissue 2),The Clash,CBS,1980,Punk,UK,"7""",3.8,CAT-1148,Accepted,discogs_sample
+discogs_150,Purple Rain (Reissue 2),Prince,Warner Bros.,1985,Pop,US,LP,3.1,CAT-1149,Accepted,discogs_sample
+discogs_151,Kind of Blue (Reissue 3),Miles Davis,Columbia,1960,Jazz,US,LP,4.5,CAT-1150,Accepted,discogs_sample
+discogs_152,Pet Sounds (Reissue 3),The Beach Boys,Capitol,1967,Pop,US,LP,4.3,CAT-1151,Accepted,discogs_sample
+discogs_153,Sgt. Pepper's Lonely Hearts Club Band (Reissue 3),The Beatles,Parlophone,1968,Rock,UK,"12""",5.0,CAT-1152,Accepted,discogs_sample
+discogs_154,What's Going On (Reissue 3),Marvin Gaye,Tamla,1972,Soul,US,"7""",4.4,CAT-1153,Accepted,discogs_sample
+discogs_155,The Dark Side of the Moon (Reissue 3),Pink Floyd,Harvest,1974,Progressive Rock,UK,"12""",4.5,CAT-1154,Accepted,discogs_sample
+discogs_156,Songs in the Key of Life (Reissue 3),Stevie Wonder,Tamla,1977,Soul,US,"12""",4.5,CAT-1155,Accepted,discogs_sample
+discogs_157,Rumours (Reissue 3),Fleetwood Mac,Warner Bros.,1978,Rock,US,LP,3.3,CAT-1156,Accepted,discogs_sample
+discogs_158,Unknown Pleasures (Reissue 3),Joy Division,Factory,1980,Post-Punk,UK,LP,4.5,CAT-1157,Accepted,discogs_sample
+discogs_159,London Calling (Reissue 3),The Clash,CBS,1980,Punk,UK,LP,4.1,CAT-1158,Accepted,discogs_sample
+discogs_160,Purple Rain (Reissue 3),Prince,Warner Bros.,1985,Pop,US,LP,4.7,CAT-1159,Accepted,discogs_sample
+discogs_161,Kind of Blue (Reissue 3),Miles Davis,Columbia,1960,Jazz,US,"12""",4.2,CAT-1160,Accepted,discogs_sample
+discogs_162,Pet Sounds (Reissue 3),The Beach Boys,Capitol,1967,Pop,US,LP,4.2,CAT-1161,Accepted,discogs_sample
+discogs_163,Sgt. Pepper's Lonely Hearts Club Band (Reissue 3),The Beatles,Parlophone,1968,Rock,UK,LP,5.0,CAT-1162,Accepted,discogs_sample
+discogs_164,What's Going On (Reissue 3),Marvin Gaye,Tamla,1972,Soul,US,LP,3.0,CAT-1163,Accepted,discogs_sample
+discogs_165,The Dark Side of the Moon (Reissue 3),Pink Floyd,Harvest,1974,Progressive Rock,UK,LP,4.7,CAT-1164,Accepted,discogs_sample
+discogs_166,Songs in the Key of Life (Reissue 3),Stevie Wonder,Tamla,1977,Soul,US,LP,4.4,CAT-1165,Accepted,discogs_sample
+discogs_167,Rumours (Reissue 3),Fleetwood Mac,Warner Bros.,1978,Rock,US,LP,4.6,CAT-1166,Accepted,discogs_sample
+discogs_168,Unknown Pleasures (Reissue 3),Joy Division,Factory,1980,Post-Punk,UK,LP,4.6,CAT-1167,Accepted,discogs_sample
+discogs_169,London Calling (Reissue 3),The Clash,CBS,1980,Punk,UK,LP,4.8,CAT-1168,Accepted,discogs_sample
+discogs_170,Purple Rain (Reissue 3),Prince,Warner Bros.,1985,Pop,US,LP,4.0,CAT-1169,Accepted,discogs_sample
+discogs_171,Kind of Blue (Reissue 3),Miles Davis,Columbia,1960,Jazz,US,LP,4.2,CAT-1170,Accepted,discogs_sample
+discogs_172,Pet Sounds (Reissue 3),The Beach Boys,Capitol,1967,Pop,US,LP,4.3,CAT-1171,Accepted,discogs_sample
+discogs_173,Sgt. Pepper's Lonely Hearts Club Band (Reissue 3),The Beatles,Parlophone,1968,Rock,UK,"12""",4.6,CAT-1172,Accepted,discogs_sample
+discogs_174,What's Going On (Reissue 3),Marvin Gaye,Tamla,1972,Soul,US,LP,3.8,CAT-1173,Accepted,discogs_sample
+discogs_175,The Dark Side of the Moon (Reissue 3),Pink Floyd,Harvest,1974,Progressive Rock,UK,LP,4.0,CAT-1174,Accepted,discogs_sample
+discogs_176,Songs in the Key of Life (Reissue 3),Stevie Wonder,Tamla,1977,Soul,US,LP,4.0,CAT-1175,Accepted,discogs_sample
+discogs_177,Rumours (Reissue 3),Fleetwood Mac,Warner Bros.,1978,Rock,US,"12""",4.1,CAT-1176,Accepted,discogs_sample
+discogs_178,Unknown Pleasures (Reissue 3),Joy Division,Factory,1980,Post-Punk,UK,LP,3.7,CAT-1177,Accepted,discogs_sample
+discogs_179,London Calling (Reissue 3),The Clash,CBS,1980,Punk,UK,LP,2.8,CAT-1178,Accepted,discogs_sample
+discogs_180,Purple Rain (Reissue 3),Prince,Warner Bros.,1985,Pop,US,LP,3.0,CAT-1179,Accepted,discogs_sample
+discogs_181,Kind of Blue (Reissue 3),Miles Davis,Columbia,1960,Jazz,US,LP,3.9,CAT-1180,Accepted,discogs_sample
+discogs_182,Pet Sounds (Reissue 3),The Beach Boys,Capitol,1967,Pop,US,LP,4.0,CAT-1181,Accepted,discogs_sample
+discogs_183,Sgt. Pepper's Lonely Hearts Club Band (Reissue 3),The Beatles,Parlophone,1968,Rock,UK,"12""",3.3,CAT-1182,Accepted,discogs_sample
+discogs_184,What's Going On (Reissue 3),Marvin Gaye,Tamla,1972,Soul,US,LP,3.4,CAT-1183,Accepted,discogs_sample
+discogs_185,The Dark Side of the Moon (Reissue 3),Pink Floyd,Harvest,1974,Progressive Rock,UK,LP,5.0,CAT-1184,Accepted,discogs_sample
+discogs_186,Songs in the Key of Life (Reissue 3),Stevie Wonder,Tamla,1977,Soul,US,LP,4.0,CAT-1185,Accepted,discogs_sample
+discogs_187,Rumours (Reissue 3),Fleetwood Mac,Warner Bros.,1978,Rock,US,LP,4.3,CAT-1186,Accepted,discogs_sample
+discogs_188,Unknown Pleasures (Reissue 3),Joy Division,Factory,1980,Post-Punk,UK,LP,5.0,CAT-1187,Accepted,discogs_sample
+discogs_189,London Calling (Reissue 3),The Clash,CBS,1980,Punk,UK,LP,3.1,CAT-1188,Accepted,discogs_sample
+discogs_190,Purple Rain (Reissue 3),Prince,Warner Bros.,1985,Pop,US,LP,4.3,CAT-1189,Accepted,discogs_sample
+discogs_191,Kind of Blue (Reissue 3),Miles Davis,Columbia,1960,Jazz,US,"12""",3.8,CAT-1190,Accepted,discogs_sample
+discogs_192,Pet Sounds (Reissue 3),The Beach Boys,Capitol,1967,Pop,US,LP,3.9,CAT-1191,Accepted,discogs_sample
+discogs_193,Sgt. Pepper's Lonely Hearts Club Band (Reissue 3),The Beatles,Parlophone,1968,Rock,UK,LP,4.3,CAT-1192,Accepted,discogs_sample
+discogs_194,What's Going On (Reissue 3),Marvin Gaye,Tamla,1972,Soul,US,LP,4.1,CAT-1193,Accepted,discogs_sample
+discogs_195,The Dark Side of the Moon (Reissue 3),Pink Floyd,Harvest,1974,Progressive Rock,UK,"7""",2.7,CAT-1194,Accepted,discogs_sample
+discogs_196,Songs in the Key of Life (Reissue 3),Stevie Wonder,Tamla,1977,Soul,US,LP,4.1,CAT-1195,Accepted,discogs_sample
+discogs_197,Rumours (Reissue 3),Fleetwood Mac,Warner Bros.,1978,Rock,US,LP,4.1,CAT-1196,Accepted,discogs_sample
+discogs_198,Unknown Pleasures (Reissue 3),Joy Division,Factory,1980,Post-Punk,UK,LP,4.1,CAT-1197,Accepted,discogs_sample
+discogs_199,London Calling (Reissue 3),The Clash,CBS,1980,Punk,UK,LP,3.8,CAT-1198,Accepted,discogs_sample
+discogs_200,Purple Rain (Reissue 3),Prince,Warner Bros.,1985,Pop,US,LP,3.7,CAT-1199,Accepted,discogs_sample
+discogs_201,Kind of Blue (Reissue 4),Miles Davis,Columbia,1961,Jazz,US,LP,4.1,CAT-1200,Accepted,discogs_sample
+discogs_202,Pet Sounds (Reissue 4),The Beach Boys,Capitol,1968,Pop,US,"12""",3.4,CAT-1201,Accepted,discogs_sample
+discogs_203,Sgt. Pepper's Lonely Hearts Club Band (Reissue 4),The Beatles,Parlophone,1969,Rock,UK,LP,4.6,CAT-1202,Accepted,discogs_sample
+discogs_204,What's Going On (Reissue 4),Marvin Gaye,Tamla,1973,Soul,US,LP,4.0,CAT-1203,Accepted,discogs_sample
+discogs_205,The Dark Side of the Moon (Reissue 4),Pink Floyd,Harvest,1975,Progressive Rock,UK,"12""",4.5,CAT-1204,Accepted,discogs_sample
+discogs_206,Songs in the Key of Life (Reissue 4),Stevie Wonder,Tamla,1978,Soul,US,LP,3.8,CAT-1205,Accepted,discogs_sample
+discogs_207,Rumours (Reissue 4),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,4.6,CAT-1206,Accepted,discogs_sample
+discogs_208,Unknown Pleasures (Reissue 4),Joy Division,Factory,1981,Post-Punk,UK,LP,4.4,CAT-1207,Accepted,discogs_sample
+discogs_209,London Calling (Reissue 4),The Clash,CBS,1981,Punk,UK,"12""",3.8,CAT-1208,Accepted,discogs_sample
+discogs_210,Purple Rain (Reissue 4),Prince,Warner Bros.,1986,Pop,US,LP,3.8,CAT-1209,Accepted,discogs_sample
+discogs_211,Kind of Blue (Reissue 4),Miles Davis,Columbia,1961,Jazz,US,LP,4.1,CAT-1210,Accepted,discogs_sample
+discogs_212,Pet Sounds (Reissue 4),The Beach Boys,Capitol,1968,Pop,US,LP,4.1,CAT-1211,Accepted,discogs_sample
+discogs_213,Sgt. Pepper's Lonely Hearts Club Band (Reissue 4),The Beatles,Parlophone,1969,Rock,UK,LP,4.6,CAT-1212,Accepted,discogs_sample
+discogs_214,What's Going On (Reissue 4),Marvin Gaye,Tamla,1973,Soul,US,LP,4.1,CAT-1213,Accepted,discogs_sample
+discogs_215,The Dark Side of the Moon (Reissue 4),Pink Floyd,Harvest,1975,Progressive Rock,UK,"7""",3.1,CAT-1214,Accepted,discogs_sample
+discogs_216,Songs in the Key of Life (Reissue 4),Stevie Wonder,Tamla,1978,Soul,US,LP,4.1,CAT-1215,Accepted,discogs_sample
+discogs_217,Rumours (Reissue 4),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,4.0,CAT-1216,Accepted,discogs_sample
+discogs_218,Unknown Pleasures (Reissue 4),Joy Division,Factory,1981,Post-Punk,UK,"12""",4.2,CAT-1217,Accepted,discogs_sample
+discogs_219,London Calling (Reissue 4),The Clash,CBS,1981,Punk,UK,LP,4.5,CAT-1218,Accepted,discogs_sample
+discogs_220,Purple Rain (Reissue 4),Prince,Warner Bros.,1986,Pop,US,LP,3.5,CAT-1219,Accepted,discogs_sample
+discogs_221,Kind of Blue (Reissue 4),Miles Davis,Columbia,1961,Jazz,US,LP,4.7,CAT-1220,Accepted,discogs_sample
+discogs_222,Pet Sounds (Reissue 4),The Beach Boys,Capitol,1968,Pop,US,LP,4.0,CAT-1221,Accepted,discogs_sample
+discogs_223,Sgt. Pepper's Lonely Hearts Club Band (Reissue 4),The Beatles,Parlophone,1969,Rock,UK,LP,5.0,CAT-1222,Accepted,discogs_sample
+discogs_224,What's Going On (Reissue 4),Marvin Gaye,Tamla,1973,Soul,US,LP,4.1,CAT-1223,Accepted,discogs_sample
+discogs_225,The Dark Side of the Moon (Reissue 4),Pink Floyd,Harvest,1975,Progressive Rock,UK,LP,3.7,CAT-1224,Accepted,discogs_sample
+discogs_226,Songs in the Key of Life (Reissue 4),Stevie Wonder,Tamla,1978,Soul,US,LP,4.2,CAT-1225,Accepted,discogs_sample
+discogs_227,Rumours (Reissue 4),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,3.5,CAT-1226,Accepted,discogs_sample
+discogs_228,Unknown Pleasures (Reissue 4),Joy Division,Factory,1981,Post-Punk,UK,"12""",4.2,CAT-1227,Accepted,discogs_sample
+discogs_229,London Calling (Reissue 4),The Clash,CBS,1981,Punk,UK,"7""",4.1,CAT-1228,Accepted,discogs_sample
+discogs_230,Purple Rain (Reissue 4),Prince,Warner Bros.,1986,Pop,US,"7""",3.9,CAT-1229,Accepted,discogs_sample
+discogs_231,Kind of Blue (Reissue 4),Miles Davis,Columbia,1961,Jazz,US,LP,2.9,CAT-1230,Accepted,discogs_sample
+discogs_232,Pet Sounds (Reissue 4),The Beach Boys,Capitol,1968,Pop,US,"12""",4.7,CAT-1231,Accepted,discogs_sample
+discogs_233,Sgt. Pepper's Lonely Hearts Club Band (Reissue 4),The Beatles,Parlophone,1969,Rock,UK,"12""",3.9,CAT-1232,Accepted,discogs_sample
+discogs_234,What's Going On (Reissue 4),Marvin Gaye,Tamla,1973,Soul,US,LP,3.4,CAT-1233,Accepted,discogs_sample
+discogs_235,The Dark Side of the Moon (Reissue 4),Pink Floyd,Harvest,1975,Progressive Rock,UK,"7""",4.7,CAT-1234,Accepted,discogs_sample
+discogs_236,Songs in the Key of Life (Reissue 4),Stevie Wonder,Tamla,1978,Soul,US,LP,3.8,CAT-1235,Accepted,discogs_sample
+discogs_237,Rumours (Reissue 4),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,3.7,CAT-1236,Accepted,discogs_sample
+discogs_238,Unknown Pleasures (Reissue 4),Joy Division,Factory,1981,Post-Punk,UK,LP,4.2,CAT-1237,Accepted,discogs_sample
+discogs_239,London Calling (Reissue 4),The Clash,CBS,1981,Punk,UK,LP,3.2,CAT-1238,Accepted,discogs_sample
+discogs_240,Purple Rain (Reissue 4),Prince,Warner Bros.,1986,Pop,US,LP,4.1,CAT-1239,Accepted,discogs_sample
+discogs_241,Kind of Blue (Reissue 4),Miles Davis,Columbia,1961,Jazz,US,"7""",4.3,CAT-1240,Accepted,discogs_sample
+discogs_242,Pet Sounds (Reissue 4),The Beach Boys,Capitol,1968,Pop,US,"12""",4.1,CAT-1241,Accepted,discogs_sample
+discogs_243,Sgt. Pepper's Lonely Hearts Club Band (Reissue 4),The Beatles,Parlophone,1969,Rock,UK,LP,4.6,CAT-1242,Accepted,discogs_sample
+discogs_244,What's Going On (Reissue 4),Marvin Gaye,Tamla,1973,Soul,US,LP,4.6,CAT-1243,Accepted,discogs_sample
+discogs_245,The Dark Side of the Moon (Reissue 4),Pink Floyd,Harvest,1975,Progressive Rock,UK,"12""",2.4,CAT-1244,Accepted,discogs_sample
+discogs_246,Songs in the Key of Life (Reissue 4),Stevie Wonder,Tamla,1978,Soul,US,LP,3.9,CAT-1245,Accepted,discogs_sample
+discogs_247,Rumours (Reissue 4),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,4.4,CAT-1246,Accepted,discogs_sample
+discogs_248,Unknown Pleasures (Reissue 4),Joy Division,Factory,1981,Post-Punk,UK,"7""",4.4,CAT-1247,Accepted,discogs_sample
+discogs_249,London Calling (Reissue 4),The Clash,CBS,1981,Punk,UK,LP,4.0,CAT-1248,Accepted,discogs_sample
+discogs_250,Purple Rain (Reissue 4),Prince,Warner Bros.,1986,Pop,US,LP,4.0,CAT-1249,Accepted,discogs_sample
+discogs_251,Kind of Blue (Reissue 5),Miles Davis,Columbia,1961,Jazz,US,LP,2.8,CAT-1250,Accepted,discogs_sample
+discogs_252,Pet Sounds (Reissue 5),The Beach Boys,Capitol,1968,Pop,US,LP,3.4,CAT-1251,Accepted,discogs_sample
+discogs_253,Sgt. Pepper's Lonely Hearts Club Band (Reissue 5),The Beatles,Parlophone,1969,Rock,UK,LP,4.3,CAT-1252,Accepted,discogs_sample
+discogs_254,What's Going On (Reissue 5),Marvin Gaye,Tamla,1973,Soul,US,"12""",2.7,CAT-1253,Accepted,discogs_sample
+discogs_255,The Dark Side of the Moon (Reissue 5),Pink Floyd,Harvest,1975,Progressive Rock,UK,LP,4.7,CAT-1254,Accepted,discogs_sample
+discogs_256,Songs in the Key of Life (Reissue 5),Stevie Wonder,Tamla,1978,Soul,US,LP,4.2,CAT-1255,Accepted,discogs_sample
+discogs_257,Rumours (Reissue 5),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,3.3,CAT-1256,Accepted,discogs_sample
+discogs_258,Unknown Pleasures (Reissue 5),Joy Division,Factory,1981,Post-Punk,UK,LP,3.8,CAT-1257,Accepted,discogs_sample
+discogs_259,London Calling (Reissue 5),The Clash,CBS,1981,Punk,UK,LP,3.3,CAT-1258,Accepted,discogs_sample
+discogs_260,Purple Rain (Reissue 5),Prince,Warner Bros.,1986,Pop,US,LP,4.0,CAT-1259,Accepted,discogs_sample
+discogs_261,Kind of Blue (Reissue 5),Miles Davis,Columbia,1961,Jazz,US,LP,5.0,CAT-1260,Accepted,discogs_sample
+discogs_262,Pet Sounds (Reissue 5),The Beach Boys,Capitol,1968,Pop,US,LP,5.0,CAT-1261,Accepted,discogs_sample
+discogs_263,Sgt. Pepper's Lonely Hearts Club Band (Reissue 5),The Beatles,Parlophone,1969,Rock,UK,"12""",4.5,CAT-1262,Accepted,discogs_sample
+discogs_264,What's Going On (Reissue 5),Marvin Gaye,Tamla,1973,Soul,US,LP,5.0,CAT-1263,Accepted,discogs_sample
+discogs_265,The Dark Side of the Moon (Reissue 5),Pink Floyd,Harvest,1975,Progressive Rock,UK,"12""",4.1,CAT-1264,Accepted,discogs_sample
+discogs_266,Songs in the Key of Life (Reissue 5),Stevie Wonder,Tamla,1978,Soul,US,LP,3.9,CAT-1265,Accepted,discogs_sample
+discogs_267,Rumours (Reissue 5),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,3.9,CAT-1266,Accepted,discogs_sample
+discogs_268,Unknown Pleasures (Reissue 5),Joy Division,Factory,1981,Post-Punk,UK,"12""",4.8,CAT-1267,Accepted,discogs_sample
+discogs_269,London Calling (Reissue 5),The Clash,CBS,1981,Punk,UK,"12""",3.8,CAT-1268,Accepted,discogs_sample
+discogs_270,Purple Rain (Reissue 5),Prince,Warner Bros.,1986,Pop,US,"12""",4.7,CAT-1269,Accepted,discogs_sample
+discogs_271,Kind of Blue (Reissue 5),Miles Davis,Columbia,1961,Jazz,US,"12""",4.1,CAT-1270,Accepted,discogs_sample
+discogs_272,Pet Sounds (Reissue 5),The Beach Boys,Capitol,1968,Pop,US,"12""",4.4,CAT-1271,Accepted,discogs_sample
+discogs_273,Sgt. Pepper's Lonely Hearts Club Band (Reissue 5),The Beatles,Parlophone,1969,Rock,UK,LP,4.5,CAT-1272,Accepted,discogs_sample
+discogs_274,What's Going On (Reissue 5),Marvin Gaye,Tamla,1973,Soul,US,LP,3.9,CAT-1273,Accepted,discogs_sample
+discogs_275,The Dark Side of the Moon (Reissue 5),Pink Floyd,Harvest,1975,Progressive Rock,UK,LP,4.4,CAT-1274,Accepted,discogs_sample
+discogs_276,Songs in the Key of Life (Reissue 5),Stevie Wonder,Tamla,1978,Soul,US,LP,4.6,CAT-1275,Accepted,discogs_sample
+discogs_277,Rumours (Reissue 5),Fleetwood Mac,Warner Bros.,1979,Rock,US,"12""",4.0,CAT-1276,Accepted,discogs_sample
+discogs_278,Unknown Pleasures (Reissue 5),Joy Division,Factory,1981,Post-Punk,UK,LP,4.9,CAT-1277,Accepted,discogs_sample
+discogs_279,London Calling (Reissue 5),The Clash,CBS,1981,Punk,UK,LP,5.0,CAT-1278,Accepted,discogs_sample
+discogs_280,Purple Rain (Reissue 5),Prince,Warner Bros.,1986,Pop,US,LP,5.0,CAT-1279,Accepted,discogs_sample
+discogs_281,Kind of Blue (Reissue 5),Miles Davis,Columbia,1961,Jazz,US,LP,4.5,CAT-1280,Accepted,discogs_sample
+discogs_282,Pet Sounds (Reissue 5),The Beach Boys,Capitol,1968,Pop,US,LP,4.5,CAT-1281,Accepted,discogs_sample
+discogs_283,Sgt. Pepper's Lonely Hearts Club Band (Reissue 5),The Beatles,Parlophone,1969,Rock,UK,"12""",5.0,CAT-1282,Accepted,discogs_sample
+discogs_284,What's Going On (Reissue 5),Marvin Gaye,Tamla,1973,Soul,US,"7""",3.4,CAT-1283,Accepted,discogs_sample
+discogs_285,The Dark Side of the Moon (Reissue 5),Pink Floyd,Harvest,1975,Progressive Rock,UK,LP,4.4,CAT-1284,Accepted,discogs_sample
+discogs_286,Songs in the Key of Life (Reissue 5),Stevie Wonder,Tamla,1978,Soul,US,LP,4.5,CAT-1285,Accepted,discogs_sample
+discogs_287,Rumours (Reissue 5),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,3.6,CAT-1286,Accepted,discogs_sample
+discogs_288,Unknown Pleasures (Reissue 5),Joy Division,Factory,1981,Post-Punk,UK,"7""",5.0,CAT-1287,Accepted,discogs_sample
+discogs_289,London Calling (Reissue 5),The Clash,CBS,1981,Punk,UK,LP,4.0,CAT-1288,Accepted,discogs_sample
+discogs_290,Purple Rain (Reissue 5),Prince,Warner Bros.,1986,Pop,US,"7""",2.9,CAT-1289,Accepted,discogs_sample
+discogs_291,Kind of Blue (Reissue 5),Miles Davis,Columbia,1961,Jazz,US,"12""",4.4,CAT-1290,Accepted,discogs_sample
+discogs_292,Pet Sounds (Reissue 5),The Beach Boys,Capitol,1968,Pop,US,LP,5.0,CAT-1291,Accepted,discogs_sample
+discogs_293,Sgt. Pepper's Lonely Hearts Club Band (Reissue 5),The Beatles,Parlophone,1969,Rock,UK,LP,5.0,CAT-1292,Accepted,discogs_sample
+discogs_294,What's Going On (Reissue 5),Marvin Gaye,Tamla,1973,Soul,US,LP,4.7,CAT-1293,Accepted,discogs_sample
+discogs_295,The Dark Side of the Moon (Reissue 5),Pink Floyd,Harvest,1975,Progressive Rock,UK,"7""",3.9,CAT-1294,Accepted,discogs_sample
+discogs_296,Songs in the Key of Life (Reissue 5),Stevie Wonder,Tamla,1978,Soul,US,"7""",3.7,CAT-1295,Accepted,discogs_sample
+discogs_297,Rumours (Reissue 5),Fleetwood Mac,Warner Bros.,1979,Rock,US,LP,5.0,CAT-1296,Accepted,discogs_sample
+discogs_298,Unknown Pleasures (Reissue 5),Joy Division,Factory,1981,Post-Punk,UK,LP,3.6,CAT-1297,Accepted,discogs_sample
+discogs_299,London Calling (Reissue 5),The Clash,CBS,1981,Punk,UK,LP,4.6,CAT-1298,Accepted,discogs_sample
+discogs_300,Purple Rain (Reissue 5),Prince,Warner Bros.,1986,Pop,US,LP,5.0,CAT-1299,Accepted,discogs_sample
+discogs_301,Kind of Blue (Reissue 6),Miles Davis,Columbia,1962,Jazz,US,LP,5.0,CAT-1300,Accepted,discogs_sample
+discogs_302,Pet Sounds (Reissue 6),The Beach Boys,Capitol,1969,Pop,US,LP,4.6,CAT-1301,Accepted,discogs_sample
+discogs_303,Sgt. Pepper's Lonely Hearts Club Band (Reissue 6),The Beatles,Parlophone,1970,Rock,UK,LP,4.4,CAT-1302,Accepted,discogs_sample
+discogs_304,What's Going On (Reissue 6),Marvin Gaye,Tamla,1974,Soul,US,LP,4.8,CAT-1303,Accepted,discogs_sample
+discogs_305,The Dark Side of the Moon (Reissue 6),Pink Floyd,Harvest,1976,Progressive Rock,UK,LP,4.4,CAT-1304,Accepted,discogs_sample
+discogs_306,Songs in the Key of Life (Reissue 6),Stevie Wonder,Tamla,1979,Soul,US,"7""",2.8,CAT-1305,Accepted,discogs_sample
+discogs_307,Rumours (Reissue 6),Fleetwood Mac,Warner Bros.,1980,Rock,US,LP,4.0,CAT-1306,Accepted,discogs_sample
+discogs_308,Unknown Pleasures (Reissue 6),Joy Division,Factory,1982,Post-Punk,UK,LP,3.8,CAT-1307,Accepted,discogs_sample
+discogs_309,London Calling (Reissue 6),The Clash,CBS,1982,Punk,UK,"12""",4.3,CAT-1308,Accepted,discogs_sample
+discogs_310,Purple Rain (Reissue 6),Prince,Warner Bros.,1987,Pop,US,LP,4.4,CAT-1309,Accepted,discogs_sample
+discogs_311,Kind of Blue (Reissue 6),Miles Davis,Columbia,1962,Jazz,US,LP,4.3,CAT-1310,Accepted,discogs_sample
+discogs_312,Pet Sounds (Reissue 6),The Beach Boys,Capitol,1969,Pop,US,LP,4.7,CAT-1311,Accepted,discogs_sample
+discogs_313,Sgt. Pepper's Lonely Hearts Club Band (Reissue 6),The Beatles,Parlophone,1970,Rock,UK,LP,2.9,CAT-1312,Accepted,discogs_sample
+discogs_314,What's Going On (Reissue 6),Marvin Gaye,Tamla,1974,Soul,US,LP,4.3,CAT-1313,Accepted,discogs_sample
+discogs_315,The Dark Side of the Moon (Reissue 6),Pink Floyd,Harvest,1976,Progressive Rock,UK,"7""",4.2,CAT-1314,Accepted,discogs_sample
+discogs_316,Songs in the Key of Life (Reissue 6),Stevie Wonder,Tamla,1979,Soul,US,LP,4.2,CAT-1315,Accepted,discogs_sample
+discogs_317,Rumours (Reissue 6),Fleetwood Mac,Warner Bros.,1980,Rock,US,LP,3.0,CAT-1316,Accepted,discogs_sample
+discogs_318,Unknown Pleasures (Reissue 6),Joy Division,Factory,1982,Post-Punk,UK,"12""",4.1,CAT-1317,Accepted,discogs_sample
+discogs_319,London Calling (Reissue 6),The Clash,CBS,1982,Punk,UK,LP,3.5,CAT-1318,Accepted,discogs_sample
+discogs_320,Purple Rain (Reissue 6),Prince,Warner Bros.,1987,Pop,US,"12""",4.0,CAT-1319,Accepted,discogs_sample
+discogs_321,Kind of Blue (Reissue 6),Miles Davis,Columbia,1962,Jazz,US,LP,4.0,CAT-1320,Accepted,discogs_sample
+discogs_322,Pet Sounds (Reissue 6),The Beach Boys,Capitol,1969,Pop,US,LP,4.3,CAT-1321,Accepted,discogs_sample
+discogs_323,Sgt. Pepper's Lonely Hearts Club Band (Reissue 6),The Beatles,Parlophone,1970,Rock,UK,LP,3.7,CAT-1322,Accepted,discogs_sample
+discogs_324,What's Going On (Reissue 6),Marvin Gaye,Tamla,1974,Soul,US,"12""",4.0,CAT-1323,Accepted,discogs_sample
+discogs_325,The Dark Side of the Moon (Reissue 6),Pink Floyd,Harvest,1976,Progressive Rock,UK,"12""",4.3,CAT-1324,Accepted,discogs_sample
+discogs_326,Songs in the Key of Life (Reissue 6),Stevie Wonder,Tamla,1979,Soul,US,LP,3.1,CAT-1325,Accepted,discogs_sample
+discogs_327,Rumours (Reissue 6),Fleetwood Mac,Warner Bros.,1980,Rock,US,"7""",3.0,CAT-1326,Accepted,discogs_sample
+discogs_328,Unknown Pleasures (Reissue 6),Joy Division,Factory,1982,Post-Punk,UK,"7""",3.6,CAT-1327,Accepted,discogs_sample
+discogs_329,London Calling (Reissue 6),The Clash,CBS,1982,Punk,UK,"12""",4.0,CAT-1328,Accepted,discogs_sample
+discogs_330,Purple Rain (Reissue 6),Prince,Warner Bros.,1987,Pop,US,LP,4.2,CAT-1329,Accepted,discogs_sample
+discogs_331,Kind of Blue (Reissue 6),Miles Davis,Columbia,1962,Jazz,US,LP,3.9,CAT-1330,Accepted,discogs_sample
+discogs_332,Pet Sounds (Reissue 6),The Beach Boys,Capitol,1969,Pop,US,LP,4.6,CAT-1331,Accepted,discogs_sample
+discogs_333,Sgt. Pepper's Lonely Hearts Club Band (Reissue 6),The Beatles,Parlophone,1970,Rock,UK,LP,3.2,CAT-1332,Accepted,discogs_sample
+discogs_334,What's Going On (Reissue 6),Marvin Gaye,Tamla,1974,Soul,US,"12""",3.7,CAT-1333,Accepted,discogs_sample
+discogs_335,The Dark Side of the Moon (Reissue 6),Pink Floyd,Harvest,1976,Progressive Rock,UK,LP,4.3,CAT-1334,Accepted,discogs_sample
+discogs_336,Songs in the Key of Life (Reissue 6),Stevie Wonder,Tamla,1979,Soul,US,LP,5.0,CAT-1335,Accepted,discogs_sample
+discogs_337,Rumours (Reissue 6),Fleetwood Mac,Warner Bros.,1980,Rock,US,LP,4.3,CAT-1336,Accepted,discogs_sample
+discogs_338,Unknown Pleasures (Reissue 6),Joy Division,Factory,1982,Post-Punk,UK,LP,4.3,CAT-1337,Accepted,discogs_sample
+discogs_339,London Calling (Reissue 6),The Clash,CBS,1982,Punk,UK,"12""",3.9,CAT-1338,Accepted,discogs_sample
+discogs_340,Purple Rain (Reissue 6),Prince,Warner Bros.,1987,Pop,US,LP,3.7,CAT-1339,Accepted,discogs_sample
+discogs_341,Kind of Blue (Reissue 6),Miles Davis,Columbia,1962,Jazz,US,LP,4.2,CAT-1340,Accepted,discogs_sample
+discogs_342,Pet Sounds (Reissue 6),The Beach Boys,Capitol,1969,Pop,US,LP,4.6,CAT-1341,Accepted,discogs_sample
+discogs_343,Sgt. Pepper's Lonely Hearts Club Band (Reissue 6),The Beatles,Parlophone,1970,Rock,UK,LP,4.3,CAT-1342,Accepted,discogs_sample
+discogs_344,What's Going On (Reissue 6),Marvin Gaye,Tamla,1974,Soul,US,LP,4.1,CAT-1343,Accepted,discogs_sample
+discogs_345,The Dark Side of the Moon (Reissue 6),Pink Floyd,Harvest,1976,Progressive Rock,UK,LP,3.8,CAT-1344,Accepted,discogs_sample
+discogs_346,Songs in the Key of Life (Reissue 6),Stevie Wonder,Tamla,1979,Soul,US,LP,4.0,CAT-1345,Accepted,discogs_sample
+discogs_347,Rumours (Reissue 6),Fleetwood Mac,Warner Bros.,1980,Rock,US,LP,4.4,CAT-1346,Accepted,discogs_sample
+discogs_348,Unknown Pleasures (Reissue 6),Joy Division,Factory,1982,Post-Punk,UK,LP,3.3,CAT-1347,Accepted,discogs_sample
+discogs_349,London Calling (Reissue 6),The Clash,CBS,1982,Punk,UK,LP,4.7,CAT-1348,Accepted,discogs_sample
+discogs_350,Purple Rain (Reissue 6),Prince,Warner Bros.,1987,Pop,US,LP,4.6,CAT-1349,Accepted,discogs_sample
+discogs_351,Kind of Blue (Reissue 7),Miles Davis,Columbia,1962,Jazz,US,LP,4.6,CAT-1350,Accepted,discogs_sample
+discogs_352,Pet Sounds (Reissue 7),The Beach Boys,Capitol,1969,Pop,US,"12""",3.6,CAT-1351,Accepted,discogs_sample
+discogs_353,Sgt. Pepper's Lonely Hearts Club Band (Reissue 7),The Beatles,Parlophone,1970,Rock,UK,"12""",4.0,CAT-1352,Accepted,discogs_sample
+discogs_354,What's Going On (Reissue 7),Marvin Gaye,Tamla,1974,Soul,US,"7""",4.9,CAT-1353,Accepted,discogs_sample
+discogs_355,The Dark Side of the Moon (Reissue 7),Pink Floyd,Harvest,1976,Progressive Rock,UK,"12""",4.7,CAT-1354,Accepted,discogs_sample
+discogs_356,Songs in the Key of Life (Reissue 7),Stevie Wonder,Tamla,1979,Soul,US,LP,3.6,CAT-1355,Accepted,discogs_sample
+discogs_357,Rumours (Reissue 7),Fleetwood Mac,Warner Bros.,1980,Rock,US,"12""",3.6,CAT-1356,Accepted,discogs_sample
+discogs_358,Unknown Pleasures (Reissue 7),Joy Division,Factory,1982,Post-Punk,UK,LP,4.4,CAT-1357,Accepted,discogs_sample
+discogs_359,London Calling (Reissue 7),The Clash,CBS,1982,Punk,UK,LP,3.5,CAT-1358,Accepted,discogs_sample
+discogs_360,Purple Rain (Reissue 7),Prince,Warner Bros.,1987,Pop,US,"12""",2.9,CAT-1359,Accepted,discogs_sample
+discogs_361,Kind of Blue (Reissue 7),Miles Davis,Columbia,1962,Jazz,US,LP,5.0,CAT-1360,Accepted,discogs_sample
+discogs_362,Pet Sounds (Reissue 7),The Beach Boys,Capitol,1969,Pop,US,LP,4.0,CAT-1361,Accepted,discogs_sample
+discogs_363,Sgt. Pepper's Lonely Hearts Club Band (Reissue 7),The Beatles,Parlophone,1970,Rock,UK,LP,3.2,CAT-1362,Accepted,discogs_sample
+discogs_364,What's Going On (Reissue 7),Marvin Gaye,Tamla,1974,Soul,US,LP,3.4,CAT-1363,Accepted,discogs_sample
+discogs_365,The Dark Side of the Moon (Reissue 7),Pink Floyd,Harvest,1976,Progressive Rock,UK,"12""",5.0,CAT-1364,Accepted,discogs_sample
+discogs_366,Songs in the Key of Life (Reissue 7),Stevie Wonder,Tamla,1979,Soul,US,LP,4.2,CAT-1365,Accepted,discogs_sample
+discogs_367,Rumours (Reissue 7),Fleetwood Mac,Warner Bros.,1980,Rock,US,"12""",5.0,CAT-1366,Accepted,discogs_sample
+discogs_368,Unknown Pleasures (Reissue 7),Joy Division,Factory,1982,Post-Punk,UK,"12""",3.7,CAT-1367,Accepted,discogs_sample
+discogs_369,London Calling (Reissue 7),The Clash,CBS,1982,Punk,UK,LP,3.8,CAT-1368,Accepted,discogs_sample
+discogs_370,Purple Rain (Reissue 7),Prince,Warner Bros.,1987,Pop,US,"12""",4.3,CAT-1369,Accepted,discogs_sample
+discogs_371,Kind of Blue (Reissue 7),Miles Davis,Columbia,1962,Jazz,US,LP,4.4,CAT-1370,Accepted,discogs_sample
+discogs_372,Pet Sounds (Reissue 7),The Beach Boys,Capitol,1969,Pop,US,LP,4.7,CAT-1371,Accepted,discogs_sample
+discogs_373,Sgt. Pepper's Lonely Hearts Club Band (Reissue 7),The Beatles,Parlophone,1970,Rock,UK,"12""",4.5,CAT-1372,Accepted,discogs_sample
+discogs_374,What's Going On (Reissue 7),Marvin Gaye,Tamla,1974,Soul,US,LP,5.0,CAT-1373,Accepted,discogs_sample
+discogs_375,The Dark Side of the Moon (Reissue 7),Pink Floyd,Harvest,1976,Progressive Rock,UK,"12""",4.8,CAT-1374,Accepted,discogs_sample
+discogs_376,Songs in the Key of Life (Reissue 7),Stevie Wonder,Tamla,1979,Soul,US,LP,3.3,CAT-1375,Accepted,discogs_sample
+discogs_377,Rumours (Reissue 7),Fleetwood Mac,Warner Bros.,1980,Rock,US,"7""",3.3,CAT-1376,Accepted,discogs_sample
+discogs_378,Unknown Pleasures (Reissue 7),Joy Division,Factory,1982,Post-Punk,UK,LP,5.0,CAT-1377,Accepted,discogs_sample
+discogs_379,London Calling (Reissue 7),The Clash,CBS,1982,Punk,UK,"12""",3.7,CAT-1378,Accepted,discogs_sample
+discogs_380,Purple Rain (Reissue 7),Prince,Warner Bros.,1987,Pop,US,LP,3.7,CAT-1379,Accepted,discogs_sample
+discogs_381,Kind of Blue (Reissue 7),Miles Davis,Columbia,1962,Jazz,US,LP,4.4,CAT-1380,Accepted,discogs_sample
+discogs_382,Pet Sounds (Reissue 7),The Beach Boys,Capitol,1969,Pop,US,"7""",3.9,CAT-1381,Accepted,discogs_sample
+discogs_383,Sgt. Pepper's Lonely Hearts Club Band (Reissue 7),The Beatles,Parlophone,1970,Rock,UK,LP,5.0,CAT-1382,Accepted,discogs_sample
+discogs_384,What's Going On (Reissue 7),Marvin Gaye,Tamla,1974,Soul,US,LP,4.1,CAT-1383,Accepted,discogs_sample
+discogs_385,The Dark Side of the Moon (Reissue 7),Pink Floyd,Harvest,1976,Progressive Rock,UK,LP,3.2,CAT-1384,Accepted,discogs_sample
+discogs_386,Songs in the Key of Life (Reissue 7),Stevie Wonder,Tamla,1979,Soul,US,LP,3.8,CAT-1385,Accepted,discogs_sample
+discogs_387,Rumours (Reissue 7),Fleetwood Mac,Warner Bros.,1980,Rock,US,LP,3.5,CAT-1386,Accepted,discogs_sample
+discogs_388,Unknown Pleasures (Reissue 7),Joy Division,Factory,1982,Post-Punk,UK,"12""",4.6,CAT-1387,Accepted,discogs_sample
+discogs_389,London Calling (Reissue 7),The Clash,CBS,1982,Punk,UK,LP,3.9,CAT-1388,Accepted,discogs_sample
+discogs_390,Purple Rain (Reissue 7),Prince,Warner Bros.,1987,Pop,US,LP,4.4,CAT-1389,Accepted,discogs_sample
+discogs_391,Kind of Blue (Reissue 7),Miles Davis,Columbia,1962,Jazz,US,LP,4.2,CAT-1390,Accepted,discogs_sample
+discogs_392,Pet Sounds (Reissue 7),The Beach Boys,Capitol,1969,Pop,US,LP,4.0,CAT-1391,Accepted,discogs_sample
+discogs_393,Sgt. Pepper's Lonely Hearts Club Band (Reissue 7),The Beatles,Parlophone,1970,Rock,UK,"7""",4.7,CAT-1392,Accepted,discogs_sample
+discogs_394,What's Going On (Reissue 7),Marvin Gaye,Tamla,1974,Soul,US,"7""",4.1,CAT-1393,Accepted,discogs_sample
+discogs_395,The Dark Side of the Moon (Reissue 7),Pink Floyd,Harvest,1976,Progressive Rock,UK,LP,3.1,CAT-1394,Accepted,discogs_sample
+discogs_396,Songs in the Key of Life (Reissue 7),Stevie Wonder,Tamla,1979,Soul,US,LP,3.6,CAT-1395,Accepted,discogs_sample
+discogs_397,Rumours (Reissue 7),Fleetwood Mac,Warner Bros.,1980,Rock,US,LP,5.0,CAT-1396,Accepted,discogs_sample
+discogs_398,Unknown Pleasures (Reissue 7),Joy Division,Factory,1982,Post-Punk,UK,LP,4.0,CAT-1397,Accepted,discogs_sample
+discogs_399,London Calling (Reissue 7),The Clash,CBS,1982,Punk,UK,LP,3.3,CAT-1398,Accepted,discogs_sample
+discogs_400,Purple Rain (Reissue 7),Prince,Warner Bros.,1987,Pop,US,LP,4.2,CAT-1399,Accepted,discogs_sample
+discogs_401,Kind of Blue (Reissue 8),Miles Davis,Columbia,1963,Jazz,US,LP,3.6,CAT-1400,Accepted,discogs_sample
+discogs_402,Pet Sounds (Reissue 8),The Beach Boys,Capitol,1970,Pop,US,"12""",4.1,CAT-1401,Accepted,discogs_sample
+discogs_403,Sgt. Pepper's Lonely Hearts Club Band (Reissue 8),The Beatles,Parlophone,1971,Rock,UK,LP,3.5,CAT-1402,Accepted,discogs_sample
+discogs_404,What's Going On (Reissue 8),Marvin Gaye,Tamla,1975,Soul,US,"12""",4.8,CAT-1403,Accepted,discogs_sample
+discogs_405,The Dark Side of the Moon (Reissue 8),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,3.8,CAT-1404,Accepted,discogs_sample
+discogs_406,Songs in the Key of Life (Reissue 8),Stevie Wonder,Tamla,1980,Soul,US,LP,4.6,CAT-1405,Accepted,discogs_sample
+discogs_407,Rumours (Reissue 8),Fleetwood Mac,Warner Bros.,1981,Rock,US,LP,4.9,CAT-1406,Accepted,discogs_sample
+discogs_408,Unknown Pleasures (Reissue 8),Joy Division,Factory,1983,Post-Punk,UK,LP,4.1,CAT-1407,Accepted,discogs_sample
+discogs_409,London Calling (Reissue 8),The Clash,CBS,1983,Punk,UK,LP,3.3,CAT-1408,Accepted,discogs_sample
+discogs_410,Purple Rain (Reissue 8),Prince,Warner Bros.,1988,Pop,US,LP,4.8,CAT-1409,Accepted,discogs_sample
+discogs_411,Kind of Blue (Reissue 8),Miles Davis,Columbia,1963,Jazz,US,"7""",4.6,CAT-1410,Accepted,discogs_sample
+discogs_412,Pet Sounds (Reissue 8),The Beach Boys,Capitol,1970,Pop,US,LP,3.2,CAT-1411,Accepted,discogs_sample
+discogs_413,Sgt. Pepper's Lonely Hearts Club Band (Reissue 8),The Beatles,Parlophone,1971,Rock,UK,"12""",4.0,CAT-1412,Accepted,discogs_sample
+discogs_414,What's Going On (Reissue 8),Marvin Gaye,Tamla,1975,Soul,US,LP,4.3,CAT-1413,Accepted,discogs_sample
+discogs_415,The Dark Side of the Moon (Reissue 8),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,4.3,CAT-1414,Accepted,discogs_sample
+discogs_416,Songs in the Key of Life (Reissue 8),Stevie Wonder,Tamla,1980,Soul,US,LP,3.6,CAT-1415,Accepted,discogs_sample
+discogs_417,Rumours (Reissue 8),Fleetwood Mac,Warner Bros.,1981,Rock,US,LP,4.4,CAT-1416,Accepted,discogs_sample
+discogs_418,Unknown Pleasures (Reissue 8),Joy Division,Factory,1983,Post-Punk,UK,LP,3.9,CAT-1417,Accepted,discogs_sample
+discogs_419,London Calling (Reissue 8),The Clash,CBS,1983,Punk,UK,"12""",4.3,CAT-1418,Accepted,discogs_sample
+discogs_420,Purple Rain (Reissue 8),Prince,Warner Bros.,1988,Pop,US,"12""",4.2,CAT-1419,Accepted,discogs_sample
+discogs_421,Kind of Blue (Reissue 8),Miles Davis,Columbia,1963,Jazz,US,"7""",4.2,CAT-1420,Accepted,discogs_sample
+discogs_422,Pet Sounds (Reissue 8),The Beach Boys,Capitol,1970,Pop,US,LP,3.9,CAT-1421,Accepted,discogs_sample
+discogs_423,Sgt. Pepper's Lonely Hearts Club Band (Reissue 8),The Beatles,Parlophone,1971,Rock,UK,LP,3.2,CAT-1422,Accepted,discogs_sample
+discogs_424,What's Going On (Reissue 8),Marvin Gaye,Tamla,1975,Soul,US,LP,3.7,CAT-1423,Accepted,discogs_sample
+discogs_425,The Dark Side of the Moon (Reissue 8),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,4.9,CAT-1424,Accepted,discogs_sample
+discogs_426,Songs in the Key of Life (Reissue 8),Stevie Wonder,Tamla,1980,Soul,US,"7""",4.4,CAT-1425,Accepted,discogs_sample
+discogs_427,Rumours (Reissue 8),Fleetwood Mac,Warner Bros.,1981,Rock,US,LP,3.9,CAT-1426,Accepted,discogs_sample
+discogs_428,Unknown Pleasures (Reissue 8),Joy Division,Factory,1983,Post-Punk,UK,LP,3.1,CAT-1427,Accepted,discogs_sample
+discogs_429,London Calling (Reissue 8),The Clash,CBS,1983,Punk,UK,LP,4.5,CAT-1428,Accepted,discogs_sample
+discogs_430,Purple Rain (Reissue 8),Prince,Warner Bros.,1988,Pop,US,LP,4.5,CAT-1429,Accepted,discogs_sample
+discogs_431,Kind of Blue (Reissue 8),Miles Davis,Columbia,1963,Jazz,US,"12""",4.0,CAT-1430,Accepted,discogs_sample
+discogs_432,Pet Sounds (Reissue 8),The Beach Boys,Capitol,1970,Pop,US,LP,4.1,CAT-1431,Accepted,discogs_sample
+discogs_433,Sgt. Pepper's Lonely Hearts Club Band (Reissue 8),The Beatles,Parlophone,1971,Rock,UK,LP,4.5,CAT-1432,Accepted,discogs_sample
+discogs_434,What's Going On (Reissue 8),Marvin Gaye,Tamla,1975,Soul,US,LP,4.2,CAT-1433,Accepted,discogs_sample
+discogs_435,The Dark Side of the Moon (Reissue 8),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,3.5,CAT-1434,Accepted,discogs_sample
+discogs_436,Songs in the Key of Life (Reissue 8),Stevie Wonder,Tamla,1980,Soul,US,LP,3.3,CAT-1435,Accepted,discogs_sample
+discogs_437,Rumours (Reissue 8),Fleetwood Mac,Warner Bros.,1981,Rock,US,"7""",2.9,CAT-1436,Accepted,discogs_sample
+discogs_438,Unknown Pleasures (Reissue 8),Joy Division,Factory,1983,Post-Punk,UK,LP,4.2,CAT-1437,Accepted,discogs_sample
+discogs_439,London Calling (Reissue 8),The Clash,CBS,1983,Punk,UK,LP,4.1,CAT-1438,Accepted,discogs_sample
+discogs_440,Purple Rain (Reissue 8),Prince,Warner Bros.,1988,Pop,US,LP,3.3,CAT-1439,Accepted,discogs_sample
+discogs_441,Kind of Blue (Reissue 8),Miles Davis,Columbia,1963,Jazz,US,LP,3.9,CAT-1440,Accepted,discogs_sample
+discogs_442,Pet Sounds (Reissue 8),The Beach Boys,Capitol,1970,Pop,US,"12""",4.1,CAT-1441,Accepted,discogs_sample
+discogs_443,Sgt. Pepper's Lonely Hearts Club Band (Reissue 8),The Beatles,Parlophone,1971,Rock,UK,LP,4.5,CAT-1442,Accepted,discogs_sample
+discogs_444,What's Going On (Reissue 8),Marvin Gaye,Tamla,1975,Soul,US,LP,4.2,CAT-1443,Accepted,discogs_sample
+discogs_445,The Dark Side of the Moon (Reissue 8),Pink Floyd,Harvest,1977,Progressive Rock,UK,"7""",3.1,CAT-1444,Accepted,discogs_sample
+discogs_446,Songs in the Key of Life (Reissue 8),Stevie Wonder,Tamla,1980,Soul,US,"12""",4.8,CAT-1445,Accepted,discogs_sample
+discogs_447,Rumours (Reissue 8),Fleetwood Mac,Warner Bros.,1981,Rock,US,"12""",3.2,CAT-1446,Accepted,discogs_sample
+discogs_448,Unknown Pleasures (Reissue 8),Joy Division,Factory,1983,Post-Punk,UK,LP,4.9,CAT-1447,Accepted,discogs_sample
+discogs_449,London Calling (Reissue 8),The Clash,CBS,1983,Punk,UK,LP,4.5,CAT-1448,Accepted,discogs_sample
+discogs_450,Purple Rain (Reissue 8),Prince,Warner Bros.,1988,Pop,US,LP,4.0,CAT-1449,Accepted,discogs_sample
+discogs_451,Kind of Blue (Reissue 9),Miles Davis,Columbia,1963,Jazz,US,"12""",4.0,CAT-1450,Accepted,discogs_sample
+discogs_452,Pet Sounds (Reissue 9),The Beach Boys,Capitol,1970,Pop,US,"7""",2.9,CAT-1451,Accepted,discogs_sample
+discogs_453,Sgt. Pepper's Lonely Hearts Club Band (Reissue 9),The Beatles,Parlophone,1971,Rock,UK,LP,3.6,CAT-1452,Accepted,discogs_sample
+discogs_454,What's Going On (Reissue 9),Marvin Gaye,Tamla,1975,Soul,US,LP,4.2,CAT-1453,Accepted,discogs_sample
+discogs_455,The Dark Side of the Moon (Reissue 9),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,4.4,CAT-1454,Accepted,discogs_sample
+discogs_456,Songs in the Key of Life (Reissue 9),Stevie Wonder,Tamla,1980,Soul,US,LP,4.0,CAT-1455,Accepted,discogs_sample
+discogs_457,Rumours (Reissue 9),Fleetwood Mac,Warner Bros.,1981,Rock,US,LP,3.8,CAT-1456,Accepted,discogs_sample
+discogs_458,Unknown Pleasures (Reissue 9),Joy Division,Factory,1983,Post-Punk,UK,"12""",4.8,CAT-1457,Accepted,discogs_sample
+discogs_459,London Calling (Reissue 9),The Clash,CBS,1983,Punk,UK,LP,5.0,CAT-1458,Accepted,discogs_sample
+discogs_460,Purple Rain (Reissue 9),Prince,Warner Bros.,1988,Pop,US,LP,3.8,CAT-1459,Accepted,discogs_sample
+discogs_461,Kind of Blue (Reissue 9),Miles Davis,Columbia,1963,Jazz,US,"12""",4.6,CAT-1460,Accepted,discogs_sample
+discogs_462,Pet Sounds (Reissue 9),The Beach Boys,Capitol,1970,Pop,US,"7""",3.3,CAT-1461,Accepted,discogs_sample
+discogs_463,Sgt. Pepper's Lonely Hearts Club Band (Reissue 9),The Beatles,Parlophone,1971,Rock,UK,LP,3.7,CAT-1462,Accepted,discogs_sample
+discogs_464,What's Going On (Reissue 9),Marvin Gaye,Tamla,1975,Soul,US,"12""",4.6,CAT-1463,Accepted,discogs_sample
+discogs_465,The Dark Side of the Moon (Reissue 9),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,4.3,CAT-1464,Accepted,discogs_sample
+discogs_466,Songs in the Key of Life (Reissue 9),Stevie Wonder,Tamla,1980,Soul,US,LP,3.9,CAT-1465,Accepted,discogs_sample
+discogs_467,Rumours (Reissue 9),Fleetwood Mac,Warner Bros.,1981,Rock,US,LP,3.8,CAT-1466,Accepted,discogs_sample
+discogs_468,Unknown Pleasures (Reissue 9),Joy Division,Factory,1983,Post-Punk,UK,LP,4.5,CAT-1467,Accepted,discogs_sample
+discogs_469,London Calling (Reissue 9),The Clash,CBS,1983,Punk,UK,LP,4.8,CAT-1468,Accepted,discogs_sample
+discogs_470,Purple Rain (Reissue 9),Prince,Warner Bros.,1988,Pop,US,LP,3.7,CAT-1469,Accepted,discogs_sample
+discogs_471,Kind of Blue (Reissue 9),Miles Davis,Columbia,1963,Jazz,US,LP,5.0,CAT-1470,Accepted,discogs_sample
+discogs_472,Pet Sounds (Reissue 9),The Beach Boys,Capitol,1970,Pop,US,"7""",5.0,CAT-1471,Accepted,discogs_sample
+discogs_473,Sgt. Pepper's Lonely Hearts Club Band (Reissue 9),The Beatles,Parlophone,1971,Rock,UK,LP,2.6,CAT-1472,Accepted,discogs_sample
+discogs_474,What's Going On (Reissue 9),Marvin Gaye,Tamla,1975,Soul,US,LP,4.5,CAT-1473,Accepted,discogs_sample
+discogs_475,The Dark Side of the Moon (Reissue 9),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,4.0,CAT-1474,Accepted,discogs_sample
+discogs_476,Songs in the Key of Life (Reissue 9),Stevie Wonder,Tamla,1980,Soul,US,LP,4.2,CAT-1475,Accepted,discogs_sample
+discogs_477,Rumours (Reissue 9),Fleetwood Mac,Warner Bros.,1981,Rock,US,"12""",3.2,CAT-1476,Accepted,discogs_sample
+discogs_478,Unknown Pleasures (Reissue 9),Joy Division,Factory,1983,Post-Punk,UK,LP,4.1,CAT-1477,Accepted,discogs_sample
+discogs_479,London Calling (Reissue 9),The Clash,CBS,1983,Punk,UK,LP,3.7,CAT-1478,Accepted,discogs_sample
+discogs_480,Purple Rain (Reissue 9),Prince,Warner Bros.,1988,Pop,US,"12""",4.0,CAT-1479,Accepted,discogs_sample
+discogs_481,Kind of Blue (Reissue 9),Miles Davis,Columbia,1963,Jazz,US,LP,3.2,CAT-1480,Accepted,discogs_sample
+discogs_482,Pet Sounds (Reissue 9),The Beach Boys,Capitol,1970,Pop,US,LP,4.0,CAT-1481,Accepted,discogs_sample
+discogs_483,Sgt. Pepper's Lonely Hearts Club Band (Reissue 9),The Beatles,Parlophone,1971,Rock,UK,LP,3.7,CAT-1482,Accepted,discogs_sample
+discogs_484,What's Going On (Reissue 9),Marvin Gaye,Tamla,1975,Soul,US,LP,4.3,CAT-1483,Accepted,discogs_sample
+discogs_485,The Dark Side of the Moon (Reissue 9),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,3.7,CAT-1484,Accepted,discogs_sample
+discogs_486,Songs in the Key of Life (Reissue 9),Stevie Wonder,Tamla,1980,Soul,US,LP,4.3,CAT-1485,Accepted,discogs_sample
+discogs_487,Rumours (Reissue 9),Fleetwood Mac,Warner Bros.,1981,Rock,US,LP,4.2,CAT-1486,Accepted,discogs_sample
+discogs_488,Unknown Pleasures (Reissue 9),Joy Division,Factory,1983,Post-Punk,UK,LP,3.7,CAT-1487,Accepted,discogs_sample
+discogs_489,London Calling (Reissue 9),The Clash,CBS,1983,Punk,UK,"12""",5.0,CAT-1488,Accepted,discogs_sample
+discogs_490,Purple Rain (Reissue 9),Prince,Warner Bros.,1988,Pop,US,LP,4.3,CAT-1489,Accepted,discogs_sample
+discogs_491,Kind of Blue (Reissue 9),Miles Davis,Columbia,1963,Jazz,US,LP,2.8,CAT-1490,Accepted,discogs_sample
+discogs_492,Pet Sounds (Reissue 9),The Beach Boys,Capitol,1970,Pop,US,"7""",4.3,CAT-1491,Accepted,discogs_sample
+discogs_493,Sgt. Pepper's Lonely Hearts Club Band (Reissue 9),The Beatles,Parlophone,1971,Rock,UK,LP,3.9,CAT-1492,Accepted,discogs_sample
+discogs_494,What's Going On (Reissue 9),Marvin Gaye,Tamla,1975,Soul,US,LP,4.1,CAT-1493,Accepted,discogs_sample
+discogs_495,The Dark Side of the Moon (Reissue 9),Pink Floyd,Harvest,1977,Progressive Rock,UK,LP,4.4,CAT-1494,Accepted,discogs_sample
+discogs_496,Songs in the Key of Life (Reissue 9),Stevie Wonder,Tamla,1980,Soul,US,LP,4.3,CAT-1495,Accepted,discogs_sample
+discogs_497,Rumours (Reissue 9),Fleetwood Mac,Warner Bros.,1981,Rock,US,LP,3.6,CAT-1496,Accepted,discogs_sample
+discogs_498,Unknown Pleasures (Reissue 9),Joy Division,Factory,1983,Post-Punk,UK,LP,4.2,CAT-1497,Accepted,discogs_sample
+discogs_499,London Calling (Reissue 9),The Clash,CBS,1983,Punk,UK,LP,3.9,CAT-1498,Accepted,discogs_sample
+discogs_500,Purple Rain (Reissue 9),Prince,Warner Bros.,1988,Pop,US,"12""",3.8,CAT-1499,Accepted,discogs_sample
+discogs_501,Kind of Blue (Reissue 10),Miles Davis,Columbia,1964,Jazz,US,LP,4.3,CAT-1500,Accepted,discogs_sample
+discogs_502,Pet Sounds (Reissue 10),The Beach Boys,Capitol,1971,Pop,US,LP,5.0,CAT-1501,Accepted,discogs_sample
+discogs_503,Sgt. Pepper's Lonely Hearts Club Band (Reissue 10),The Beatles,Parlophone,1972,Rock,UK,LP,3.5,CAT-1502,Accepted,discogs_sample
+discogs_504,What's Going On (Reissue 10),Marvin Gaye,Tamla,1976,Soul,US,"12""",3.2,CAT-1503,Accepted,discogs_sample
+discogs_505,The Dark Side of the Moon (Reissue 10),Pink Floyd,Harvest,1978,Progressive Rock,UK,LP,3.5,CAT-1504,Accepted,discogs_sample
+discogs_506,Songs in the Key of Life (Reissue 10),Stevie Wonder,Tamla,1981,Soul,US,LP,3.9,CAT-1505,Accepted,discogs_sample
+discogs_507,Rumours (Reissue 10),Fleetwood Mac,Warner Bros.,1982,Rock,US,LP,3.9,CAT-1506,Accepted,discogs_sample
+discogs_508,Unknown Pleasures (Reissue 10),Joy Division,Factory,1984,Post-Punk,UK,LP,4.3,CAT-1507,Accepted,discogs_sample
+discogs_509,London Calling (Reissue 10),The Clash,CBS,1984,Punk,UK,"12""",4.0,CAT-1508,Accepted,discogs_sample
+discogs_510,Purple Rain (Reissue 10),Prince,Warner Bros.,1989,Pop,US,LP,4.5,CAT-1509,Accepted,discogs_sample
+discogs_511,Kind of Blue (Reissue 10),Miles Davis,Columbia,1964,Jazz,US,LP,3.4,CAT-1510,Accepted,discogs_sample
+discogs_512,Pet Sounds (Reissue 10),The Beach Boys,Capitol,1971,Pop,US,LP,3.5,CAT-1511,Accepted,discogs_sample
+discogs_513,Sgt. Pepper's Lonely Hearts Club Band (Reissue 10),The Beatles,Parlophone,1972,Rock,UK,LP,3.6,CAT-1512,Accepted,discogs_sample
+discogs_514,What's Going On (Reissue 10),Marvin Gaye,Tamla,1976,Soul,US,LP,4.0,CAT-1513,Accepted,discogs_sample
+discogs_515,The Dark Side of the Moon (Reissue 10),Pink Floyd,Harvest,1978,Progressive Rock,UK,LP,2.5,CAT-1514,Accepted,discogs_sample
+discogs_516,Songs in the Key of Life (Reissue 10),Stevie Wonder,Tamla,1981,Soul,US,LP,4.2,CAT-1515,Accepted,discogs_sample
+discogs_517,Rumours (Reissue 10),Fleetwood Mac,Warner Bros.,1982,Rock,US,"7""",4.4,CAT-1516,Accepted,discogs_sample
+discogs_518,Unknown Pleasures (Reissue 10),Joy Division,Factory,1984,Post-Punk,UK,LP,4.5,CAT-1517,Accepted,discogs_sample
+discogs_519,London Calling (Reissue 10),The Clash,CBS,1984,Punk,UK,LP,3.6,CAT-1518,Accepted,discogs_sample
+discogs_520,Purple Rain (Reissue 10),Prince,Warner Bros.,1989,Pop,US,LP,3.5,CAT-1519,Accepted,discogs_sample
+discogs_521,Kind of Blue (Reissue 10),Miles Davis,Columbia,1964,Jazz,US,LP,4.0,CAT-1520,Accepted,discogs_sample
+discogs_522,Pet Sounds (Reissue 10),The Beach Boys,Capitol,1971,Pop,US,LP,4.5,CAT-1521,Accepted,discogs_sample
+discogs_523,Sgt. Pepper's Lonely Hearts Club Band (Reissue 10),The Beatles,Parlophone,1972,Rock,UK,LP,4.1,CAT-1522,Accepted,discogs_sample
+discogs_524,What's Going On (Reissue 10),Marvin Gaye,Tamla,1976,Soul,US,"12""",4.1,CAT-1523,Accepted,discogs_sample
+discogs_525,The Dark Side of the Moon (Reissue 10),Pink Floyd,Harvest,1978,Progressive Rock,UK,"12""",4.7,CAT-1524,Accepted,discogs_sample
+discogs_526,Songs in the Key of Life (Reissue 10),Stevie Wonder,Tamla,1981,Soul,US,"7""",3.7,CAT-1525,Accepted,discogs_sample
+discogs_527,Rumours (Reissue 10),Fleetwood Mac,Warner Bros.,1982,Rock,US,LP,4.7,CAT-1526,Accepted,discogs_sample
+discogs_528,Unknown Pleasures (Reissue 10),Joy Division,Factory,1984,Post-Punk,UK,LP,4.4,CAT-1527,Accepted,discogs_sample
+discogs_529,London Calling (Reissue 10),The Clash,CBS,1984,Punk,UK,"7""",3.7,CAT-1528,Accepted,discogs_sample
+discogs_530,Purple Rain (Reissue 10),Prince,Warner Bros.,1989,Pop,US,LP,3.5,CAT-1529,Accepted,discogs_sample
+discogs_531,Kind of Blue (Reissue 10),Miles Davis,Columbia,1964,Jazz,US,LP,3.7,CAT-1530,Accepted,discogs_sample
+discogs_532,Pet Sounds (Reissue 10),The Beach Boys,Capitol,1971,Pop,US,LP,4.7,CAT-1531,Accepted,discogs_sample
+discogs_533,Sgt. Pepper's Lonely Hearts Club Band (Reissue 10),The Beatles,Parlophone,1972,Rock,UK,LP,4.0,CAT-1532,Accepted,discogs_sample
+discogs_534,What's Going On (Reissue 10),Marvin Gaye,Tamla,1976,Soul,US,"7""",4.5,CAT-1533,Accepted,discogs_sample
+discogs_535,The Dark Side of the Moon (Reissue 10),Pink Floyd,Harvest,1978,Progressive Rock,UK,LP,4.1,CAT-1534,Accepted,discogs_sample
+discogs_536,Songs in the Key of Life (Reissue 10),Stevie Wonder,Tamla,1981,Soul,US,LP,3.9,CAT-1535,Accepted,discogs_sample
+discogs_537,Rumours (Reissue 10),Fleetwood Mac,Warner Bros.,1982,Rock,US,"12""",4.0,CAT-1536,Accepted,discogs_sample
+discogs_538,Unknown Pleasures (Reissue 10),Joy Division,Factory,1984,Post-Punk,UK,LP,3.3,CAT-1537,Accepted,discogs_sample
+discogs_539,London Calling (Reissue 10),The Clash,CBS,1984,Punk,UK,LP,4.4,CAT-1538,Accepted,discogs_sample
+discogs_540,Purple Rain (Reissue 10),Prince,Warner Bros.,1989,Pop,US,LP,4.7,CAT-1539,Accepted,discogs_sample
+discogs_541,Kind of Blue (Reissue 10),Miles Davis,Columbia,1964,Jazz,US,"12""",4.4,CAT-1540,Accepted,discogs_sample
+discogs_542,Pet Sounds (Reissue 10),The Beach Boys,Capitol,1971,Pop,US,LP,4.5,CAT-1541,Accepted,discogs_sample
+discogs_543,Sgt. Pepper's Lonely Hearts Club Band (Reissue 10),The Beatles,Parlophone,1972,Rock,UK,LP,4.4,CAT-1542,Accepted,discogs_sample
+discogs_544,What's Going On (Reissue 10),Marvin Gaye,Tamla,1976,Soul,US,LP,3.6,CAT-1543,Accepted,discogs_sample
+discogs_545,The Dark Side of the Moon (Reissue 10),Pink Floyd,Harvest,1978,Progressive Rock,UK,"12""",3.4,CAT-1544,Accepted,discogs_sample
+discogs_546,Songs in the Key of Life (Reissue 10),Stevie Wonder,Tamla,1981,Soul,US,LP,3.9,CAT-1545,Accepted,discogs_sample
+discogs_547,Rumours (Reissue 10),Fleetwood Mac,Warner Bros.,1982,Rock,US,LP,4.2,CAT-1546,Accepted,discogs_sample
+discogs_548,Unknown Pleasures (Reissue 10),Joy Division,Factory,1984,Post-Punk,UK,"12""",5.0,CAT-1547,Accepted,discogs_sample
+discogs_549,London Calling (Reissue 10),The Clash,CBS,1984,Punk,UK,LP,4.3,CAT-1548,Accepted,discogs_sample
+discogs_550,Purple Rain (Reissue 10),Prince,Warner Bros.,1989,Pop,US,"12""",3.5,CAT-1549,Accepted,discogs_sample
+discogs_551,Kind of Blue (Reissue 11),Miles Davis,Columbia,1964,Jazz,US,LP,5.0,CAT-1550,Accepted,discogs_sample
+discogs_552,Pet Sounds (Reissue 11),The Beach Boys,Capitol,1971,Pop,US,LP,4.2,CAT-1551,Accepted,discogs_sample
+discogs_553,Sgt. Pepper's Lonely Hearts Club Band (Reissue 11),The Beatles,Parlophone,1972,Rock,UK,LP,4.6,CAT-1552,Accepted,discogs_sample
+discogs_554,What's Going On (Reissue 11),Marvin Gaye,Tamla,1976,Soul,US,"7""",4.3,CAT-1553,Accepted,discogs_sample
+discogs_555,The Dark Side of the Moon (Reissue 11),Pink Floyd,Harvest,1978,Progressive Rock,UK,LP,4.4,CAT-1554,Accepted,discogs_sample
+discogs_556,Songs in the Key of Life (Reissue 11),Stevie Wonder,Tamla,1981,Soul,US,"7""",4.6,CAT-1555,Accepted,discogs_sample
+discogs_557,Rumours (Reissue 11),Fleetwood Mac,Warner Bros.,1982,Rock,US,"12""",4.3,CAT-1556,Accepted,discogs_sample
+discogs_558,Unknown Pleasures (Reissue 11),Joy Division,Factory,1984,Post-Punk,UK,LP,3.1,CAT-1557,Accepted,discogs_sample
+discogs_559,London Calling (Reissue 11),The Clash,CBS,1984,Punk,UK,"7""",3.4,CAT-1558,Accepted,discogs_sample
+discogs_560,Purple Rain (Reissue 11),Prince,Warner Bros.,1989,Pop,US,LP,4.7,CAT-1559,Accepted,discogs_sample
+discogs_561,Kind of Blue (Reissue 11),Miles Davis,Columbia,1964,Jazz,US,LP,4.4,CAT-1560,Accepted,discogs_sample
+discogs_562,Pet Sounds (Reissue 11),The Beach Boys,Capitol,1971,Pop,US,"7""",5.0,CAT-1561,Accepted,discogs_sample
+discogs_563,Sgt. Pepper's Lonely Hearts Club Band (Reissue 11),The Beatles,Parlophone,1972,Rock,UK,"12""",4.4,CAT-1562,Accepted,discogs_sample
+discogs_564,What's Going On (Reissue 11),Marvin Gaye,Tamla,1976,Soul,US,LP,4.5,CAT-1563,Accepted,discogs_sample
+discogs_565,The Dark Side of the Moon (Reissue 11),Pink Floyd,Harvest,1978,Progressive Rock,UK,LP,4.5,CAT-1564,Accepted,discogs_sample
+discogs_566,Songs in the Key of Life (Reissue 11),Stevie Wonder,Tamla,1981,Soul,US,LP,2.6,CAT-1565,Accepted,discogs_sample
+discogs_567,Rumours (Reissue 11),Fleetwood Mac,Warner Bros.,1982,Rock,US,LP,4.1,CAT-1566,Accepted,discogs_sample
+discogs_568,Unknown Pleasures (Reissue 11),Joy Division,Factory,1984,Post-Punk,UK,"12""",4.0,CAT-1567,Accepted,discogs_sample
+discogs_569,London Calling (Reissue 11),The Clash,CBS,1984,Punk,UK,LP,4.4,CAT-1568,Accepted,discogs_sample
+discogs_570,Purple Rain (Reissue 11),Prince,Warner Bros.,1989,Pop,US,LP,3.6,CAT-1569,Accepted,discogs_sample
+discogs_571,Kind of Blue (Reissue 11),Miles Davis,Columbia,1964,Jazz,US,LP,4.3,CAT-1570,Accepted,discogs_sample
+discogs_572,Pet Sounds (Reissue 11),The Beach Boys,Capitol,1971,Pop,US,LP,5.0,CAT-1571,Accepted,discogs_sample
+discogs_573,Sgt. Pepper's Lonely Hearts Club Band (Reissue 11),The Beatles,Parlophone,1972,Rock,UK,LP,3.7,CAT-1572,Accepted,discogs_sample
+discogs_574,What's Going On (Reissue 11),Marvin Gaye,Tamla,1976,Soul,US,LP,3.9,CAT-1573,Accepted,discogs_sample
+discogs_575,The Dark Side of the Moon (Reissue 11),Pink Floyd,Harvest,1978,Progressive Rock,UK,"7""",4.8,CAT-1574,Accepted,discogs_sample
+discogs_576,Songs in the Key of Life (Reissue 11),Stevie Wonder,Tamla,1981,Soul,US,LP,4.1,CAT-1575,Accepted,discogs_sample
+discogs_577,Rumours (Reissue 11),Fleetwood Mac,Warner Bros.,1982,Rock,US,LP,3.2,CAT-1576,Accepted,discogs_sample
+discogs_578,Unknown Pleasures (Reissue 11),Joy Division,Factory,1984,Post-Punk,UK,"12""",4.1,CAT-1577,Accepted,discogs_sample
+discogs_579,London Calling (Reissue 11),The Clash,CBS,1984,Punk,UK,LP,4.1,CAT-1578,Accepted,discogs_sample
+discogs_580,Purple Rain (Reissue 11),Prince,Warner Bros.,1989,Pop,US,LP,3.2,CAT-1579,Accepted,discogs_sample
+discogs_581,Kind of Blue (Reissue 11),Miles Davis,Columbia,1964,Jazz,US,"12""",3.6,CAT-1580,Accepted,discogs_sample
+discogs_582,Pet Sounds (Reissue 11),The Beach Boys,Capitol,1971,Pop,US,LP,3.8,CAT-1581,Accepted,discogs_sample
+discogs_583,Sgt. Pepper's Lonely Hearts Club Band (Reissue 11),The Beatles,Parlophone,1972,Rock,UK,LP,4.2,CAT-1582,Accepted,discogs_sample
+discogs_584,What's Going On (Reissue 11),Marvin Gaye,Tamla,1976,Soul,US,"7""",5.0,CAT-1583,Accepted,discogs_sample
+discogs_585,The Dark Side of the Moon (Reissue 11),Pink Floyd,Harvest,1978,Progressive Rock,UK,"12""",4.3,CAT-1584,Accepted,discogs_sample
+discogs_586,Songs in the Key of Life (Reissue 11),Stevie Wonder,Tamla,1981,Soul,US,"7""",4.0,CAT-1585,Accepted,discogs_sample
+discogs_587,Rumours (Reissue 11),Fleetwood Mac,Warner Bros.,1982,Rock,US,LP,4.9,CAT-1586,Accepted,discogs_sample
+discogs_588,Unknown Pleasures (Reissue 11),Joy Division,Factory,1984,Post-Punk,UK,LP,4.0,CAT-1587,Accepted,discogs_sample
+discogs_589,London Calling (Reissue 11),The Clash,CBS,1984,Punk,UK,LP,3.8,CAT-1588,Accepted,discogs_sample
+discogs_590,Purple Rain (Reissue 11),Prince,Warner Bros.,1989,Pop,US,LP,4.0,CAT-1589,Accepted,discogs_sample
+discogs_591,Kind of Blue (Reissue 11),Miles Davis,Columbia,1964,Jazz,US,LP,2.6,CAT-1590,Accepted,discogs_sample
+discogs_592,Pet Sounds (Reissue 11),The Beach Boys,Capitol,1971,Pop,US,"7""",4.7,CAT-1591,Accepted,discogs_sample
+discogs_593,Sgt. Pepper's Lonely Hearts Club Band (Reissue 11),The Beatles,Parlophone,1972,Rock,UK,LP,3.9,CAT-1592,Accepted,discogs_sample
+discogs_594,What's Going On (Reissue 11),Marvin Gaye,Tamla,1976,Soul,US,LP,4.1,CAT-1593,Accepted,discogs_sample
+discogs_595,The Dark Side of the Moon (Reissue 11),Pink Floyd,Harvest,1978,Progressive Rock,UK,LP,4.8,CAT-1594,Accepted,discogs_sample
+discogs_596,Songs in the Key of Life (Reissue 11),Stevie Wonder,Tamla,1981,Soul,US,LP,4.2,CAT-1595,Accepted,discogs_sample
+discogs_597,Rumours (Reissue 11),Fleetwood Mac,Warner Bros.,1982,Rock,US,LP,4.4,CAT-1596,Accepted,discogs_sample
+discogs_598,Unknown Pleasures (Reissue 11),Joy Division,Factory,1984,Post-Punk,UK,"7""",3.3,CAT-1597,Accepted,discogs_sample
+discogs_599,London Calling (Reissue 11),The Clash,CBS,1984,Punk,UK,"7""",3.4,CAT-1598,Accepted,discogs_sample
+discogs_600,Purple Rain (Reissue 11),Prince,Warner Bros.,1989,Pop,US,LP,3.2,CAT-1599,Accepted,discogs_sample
+discogs_601,Kind of Blue (Reissue 12),Miles Davis,Columbia,1965,Jazz,US,LP,3.3,CAT-1600,Accepted,discogs_sample
+discogs_602,Pet Sounds (Reissue 12),The Beach Boys,Capitol,1972,Pop,US,LP,4.6,CAT-1601,Accepted,discogs_sample
+discogs_603,Sgt. Pepper's Lonely Hearts Club Band (Reissue 12),The Beatles,Parlophone,1973,Rock,UK,"7""",4.3,CAT-1602,Accepted,discogs_sample
+discogs_604,What's Going On (Reissue 12),Marvin Gaye,Tamla,1977,Soul,US,LP,4.5,CAT-1603,Accepted,discogs_sample
+discogs_605,The Dark Side of the Moon (Reissue 12),Pink Floyd,Harvest,1979,Progressive Rock,UK,"7""",3.0,CAT-1604,Accepted,discogs_sample
+discogs_606,Songs in the Key of Life (Reissue 12),Stevie Wonder,Tamla,1982,Soul,US,LP,4.7,CAT-1605,Accepted,discogs_sample
+discogs_607,Rumours (Reissue 12),Fleetwood Mac,Warner Bros.,1983,Rock,US,"12""",4.3,CAT-1606,Accepted,discogs_sample
+discogs_608,Unknown Pleasures (Reissue 12),Joy Division,Factory,1985,Post-Punk,UK,LP,4.6,CAT-1607,Accepted,discogs_sample
+discogs_609,London Calling (Reissue 12),The Clash,CBS,1985,Punk,UK,"7""",3.5,CAT-1608,Accepted,discogs_sample
+discogs_610,Purple Rain (Reissue 12),Prince,Warner Bros.,1990,Pop,US,LP,3.8,CAT-1609,Accepted,discogs_sample
+discogs_611,Kind of Blue (Reissue 12),Miles Davis,Columbia,1965,Jazz,US,LP,3.8,CAT-1610,Accepted,discogs_sample
+discogs_612,Pet Sounds (Reissue 12),The Beach Boys,Capitol,1972,Pop,US,"12""",3.9,CAT-1611,Accepted,discogs_sample
+discogs_613,Sgt. Pepper's Lonely Hearts Club Band (Reissue 12),The Beatles,Parlophone,1973,Rock,UK,"12""",4.8,CAT-1612,Accepted,discogs_sample
+discogs_614,What's Going On (Reissue 12),Marvin Gaye,Tamla,1977,Soul,US,LP,2.6,CAT-1613,Accepted,discogs_sample
+discogs_615,The Dark Side of the Moon (Reissue 12),Pink Floyd,Harvest,1979,Progressive Rock,UK,LP,3.9,CAT-1614,Accepted,discogs_sample
+discogs_616,Songs in the Key of Life (Reissue 12),Stevie Wonder,Tamla,1982,Soul,US,LP,4.2,CAT-1615,Accepted,discogs_sample
+discogs_617,Rumours (Reissue 12),Fleetwood Mac,Warner Bros.,1983,Rock,US,LP,3.9,CAT-1616,Accepted,discogs_sample
+discogs_618,Unknown Pleasures (Reissue 12),Joy Division,Factory,1985,Post-Punk,UK,"12""",3.6,CAT-1617,Accepted,discogs_sample
+discogs_619,London Calling (Reissue 12),The Clash,CBS,1985,Punk,UK,LP,5.0,CAT-1618,Accepted,discogs_sample
+discogs_620,Purple Rain (Reissue 12),Prince,Warner Bros.,1990,Pop,US,"7""",4.4,CAT-1619,Accepted,discogs_sample
+discogs_621,Kind of Blue (Reissue 12),Miles Davis,Columbia,1965,Jazz,US,"12""",4.6,CAT-1620,Accepted,discogs_sample
+discogs_622,Pet Sounds (Reissue 12),The Beach Boys,Capitol,1972,Pop,US,LP,3.4,CAT-1621,Accepted,discogs_sample
+discogs_623,Sgt. Pepper's Lonely Hearts Club Band (Reissue 12),The Beatles,Parlophone,1973,Rock,UK,LP,4.1,CAT-1622,Accepted,discogs_sample
+discogs_624,What's Going On (Reissue 12),Marvin Gaye,Tamla,1977,Soul,US,"12""",4.3,CAT-1623,Accepted,discogs_sample
+discogs_625,The Dark Side of the Moon (Reissue 12),Pink Floyd,Harvest,1979,Progressive Rock,UK,LP,4.2,CAT-1624,Accepted,discogs_sample
+discogs_626,Songs in the Key of Life (Reissue 12),Stevie Wonder,Tamla,1982,Soul,US,"12""",4.9,CAT-1625,Accepted,discogs_sample
+discogs_627,Rumours (Reissue 12),Fleetwood Mac,Warner Bros.,1983,Rock,US,"7""",3.2,CAT-1626,Accepted,discogs_sample
+discogs_628,Unknown Pleasures (Reissue 12),Joy Division,Factory,1985,Post-Punk,UK,"12""",3.3,CAT-1627,Accepted,discogs_sample
+discogs_629,London Calling (Reissue 12),The Clash,CBS,1985,Punk,UK,LP,4.5,CAT-1628,Accepted,discogs_sample
+discogs_630,Purple Rain (Reissue 12),Prince,Warner Bros.,1990,Pop,US,LP,3.5,CAT-1629,Accepted,discogs_sample
+discogs_631,Kind of Blue (Reissue 12),Miles Davis,Columbia,1965,Jazz,US,"12""",3.2,CAT-1630,Accepted,discogs_sample
+discogs_632,Pet Sounds (Reissue 12),The Beach Boys,Capitol,1972,Pop,US,LP,4.2,CAT-1631,Accepted,discogs_sample
+discogs_633,Sgt. Pepper's Lonely Hearts Club Band (Reissue 12),The Beatles,Parlophone,1973,Rock,UK,LP,4.3,CAT-1632,Accepted,discogs_sample
+discogs_634,What's Going On (Reissue 12),Marvin Gaye,Tamla,1977,Soul,US,LP,4.4,CAT-1633,Accepted,discogs_sample
+discogs_635,The Dark Side of the Moon (Reissue 12),Pink Floyd,Harvest,1979,Progressive Rock,UK,"12""",3.1,CAT-1634,Accepted,discogs_sample
+discogs_636,Songs in the Key of Life (Reissue 12),Stevie Wonder,Tamla,1982,Soul,US,LP,3.4,CAT-1635,Accepted,discogs_sample
+discogs_637,Rumours (Reissue 12),Fleetwood Mac,Warner Bros.,1983,Rock,US,"7""",3.9,CAT-1636,Accepted,discogs_sample
+discogs_638,Unknown Pleasures (Reissue 12),Joy Division,Factory,1985,Post-Punk,UK,LP,3.5,CAT-1637,Accepted,discogs_sample
+discogs_639,London Calling (Reissue 12),The Clash,CBS,1985,Punk,UK,LP,4.1,CAT-1638,Accepted,discogs_sample
+discogs_640,Purple Rain (Reissue 12),Prince,Warner Bros.,1990,Pop,US,LP,3.8,CAT-1639,Accepted,discogs_sample
+discogs_641,Kind of Blue (Reissue 12),Miles Davis,Columbia,1965,Jazz,US,"12""",3.7,CAT-1640,Accepted,discogs_sample
+discogs_642,Pet Sounds (Reissue 12),The Beach Boys,Capitol,1972,Pop,US,LP,3.4,CAT-1641,Accepted,discogs_sample
+discogs_643,Sgt. Pepper's Lonely Hearts Club Band (Reissue 12),The Beatles,Parlophone,1973,Rock,UK,"7""",4.6,CAT-1642,Accepted,discogs_sample
+discogs_644,What's Going On (Reissue 12),Marvin Gaye,Tamla,1977,Soul,US,"7""",4.3,CAT-1643,Accepted,discogs_sample
+discogs_645,The Dark Side of the Moon (Reissue 12),Pink Floyd,Harvest,1979,Progressive Rock,UK,LP,4.0,CAT-1644,Accepted,discogs_sample
+discogs_646,Songs in the Key of Life (Reissue 12),Stevie Wonder,Tamla,1982,Soul,US,LP,3.9,CAT-1645,Accepted,discogs_sample
+discogs_647,Rumours (Reissue 12),Fleetwood Mac,Warner Bros.,1983,Rock,US,LP,4.9,CAT-1646,Accepted,discogs_sample
+discogs_648,Unknown Pleasures (Reissue 12),Joy Division,Factory,1985,Post-Punk,UK,LP,3.5,CAT-1647,Accepted,discogs_sample
+discogs_649,London Calling (Reissue 12),The Clash,CBS,1985,Punk,UK,LP,4.0,CAT-1648,Accepted,discogs_sample
+discogs_650,Purple Rain (Reissue 12),Prince,Warner Bros.,1990,Pop,US,LP,4.6,CAT-1649,Accepted,discogs_sample
+discogs_651,Kind of Blue (Reissue 13),Miles Davis,Columbia,1965,Jazz,US,LP,3.2,CAT-1650,Accepted,discogs_sample
+discogs_652,Pet Sounds (Reissue 13),The Beach Boys,Capitol,1972,Pop,US,LP,3.1,CAT-1651,Accepted,discogs_sample
+discogs_653,Sgt. Pepper's Lonely Hearts Club Band (Reissue 13),The Beatles,Parlophone,1973,Rock,UK,LP,3.7,CAT-1652,Accepted,discogs_sample
+discogs_654,What's Going On (Reissue 13),Marvin Gaye,Tamla,1977,Soul,US,LP,4.0,CAT-1653,Accepted,discogs_sample
+discogs_655,The Dark Side of the Moon (Reissue 13),Pink Floyd,Harvest,1979,Progressive Rock,UK,LP,5.0,CAT-1654,Accepted,discogs_sample
+discogs_656,Songs in the Key of Life (Reissue 13),Stevie Wonder,Tamla,1982,Soul,US,LP,4.6,CAT-1655,Accepted,discogs_sample
+discogs_657,Rumours (Reissue 13),Fleetwood Mac,Warner Bros.,1983,Rock,US,LP,4.3,CAT-1656,Accepted,discogs_sample
+discogs_658,Unknown Pleasures (Reissue 13),Joy Division,Factory,1985,Post-Punk,UK,"7""",4.0,CAT-1657,Accepted,discogs_sample
+discogs_659,London Calling (Reissue 13),The Clash,CBS,1985,Punk,UK,"12""",4.3,CAT-1658,Accepted,discogs_sample
+discogs_660,Purple Rain (Reissue 13),Prince,Warner Bros.,1990,Pop,US,"7""",3.4,CAT-1659,Accepted,discogs_sample
+discogs_661,Kind of Blue (Reissue 13),Miles Davis,Columbia,1965,Jazz,US,LP,5.0,CAT-1660,Accepted,discogs_sample
+discogs_662,Pet Sounds (Reissue 13),The Beach Boys,Capitol,1972,Pop,US,"7""",4.3,CAT-1661,Accepted,discogs_sample
+discogs_663,Sgt. Pepper's Lonely Hearts Club Band (Reissue 13),The Beatles,Parlophone,1973,Rock,UK,LP,5.0,CAT-1662,Accepted,discogs_sample
+discogs_664,What's Going On (Reissue 13),Marvin Gaye,Tamla,1977,Soul,US,LP,4.7,CAT-1663,Accepted,discogs_sample
+discogs_665,The Dark Side of the Moon (Reissue 13),Pink Floyd,Harvest,1979,Progressive Rock,UK,LP,4.5,CAT-1664,Accepted,discogs_sample
+discogs_666,Songs in the Key of Life (Reissue 13),Stevie Wonder,Tamla,1982,Soul,US,LP,3.5,CAT-1665,Accepted,discogs_sample
+discogs_667,Rumours (Reissue 13),Fleetwood Mac,Warner Bros.,1983,Rock,US,LP,4.0,CAT-1666,Accepted,discogs_sample
+discogs_668,Unknown Pleasures (Reissue 13),Joy Division,Factory,1985,Post-Punk,UK,LP,4.3,CAT-1667,Accepted,discogs_sample
+discogs_669,London Calling (Reissue 13),The Clash,CBS,1985,Punk,UK,LP,4.3,CAT-1668,Accepted,discogs_sample
+discogs_670,Purple Rain (Reissue 13),Prince,Warner Bros.,1990,Pop,US,LP,4.5,CAT-1669,Accepted,discogs_sample
+discogs_671,Kind of Blue (Reissue 13),Miles Davis,Columbia,1965,Jazz,US,"12""",4.3,CAT-1670,Accepted,discogs_sample
+discogs_672,Pet Sounds (Reissue 13),The Beach Boys,Capitol,1972,Pop,US,LP,3.5,CAT-1671,Accepted,discogs_sample
+discogs_673,Sgt. Pepper's Lonely Hearts Club Band (Reissue 13),The Beatles,Parlophone,1973,Rock,UK,LP,4.5,CAT-1672,Accepted,discogs_sample
+discogs_674,What's Going On (Reissue 13),Marvin Gaye,Tamla,1977,Soul,US,"7""",3.6,CAT-1673,Accepted,discogs_sample
+discogs_675,The Dark Side of the Moon (Reissue 13),Pink Floyd,Harvest,1979,Progressive Rock,UK,"7""",4.4,CAT-1674,Accepted,discogs_sample
+discogs_676,Songs in the Key of Life (Reissue 13),Stevie Wonder,Tamla,1982,Soul,US,"12""",3.8,CAT-1675,Accepted,discogs_sample
+discogs_677,Rumours (Reissue 13),Fleetwood Mac,Warner Bros.,1983,Rock,US,LP,4.2,CAT-1676,Accepted,discogs_sample
+discogs_678,Unknown Pleasures (Reissue 13),Joy Division,Factory,1985,Post-Punk,UK,LP,4.0,CAT-1677,Accepted,discogs_sample
+discogs_679,London Calling (Reissue 13),The Clash,CBS,1985,Punk,UK,LP,3.5,CAT-1678,Accepted,discogs_sample
+discogs_680,Purple Rain (Reissue 13),Prince,Warner Bros.,1990,Pop,US,LP,4.1,CAT-1679,Accepted,discogs_sample
+discogs_681,Kind of Blue (Reissue 13),Miles Davis,Columbia,1965,Jazz,US,LP,3.6,CAT-1680,Accepted,discogs_sample
+discogs_682,Pet Sounds (Reissue 13),The Beach Boys,Capitol,1972,Pop,US,"12""",4.5,CAT-1681,Accepted,discogs_sample
+discogs_683,Sgt. Pepper's Lonely Hearts Club Band (Reissue 13),The Beatles,Parlophone,1973,Rock,UK,LP,3.9,CAT-1682,Accepted,discogs_sample
+discogs_684,What's Going On (Reissue 13),Marvin Gaye,Tamla,1977,Soul,US,LP,3.9,CAT-1683,Accepted,discogs_sample
+discogs_685,The Dark Side of the Moon (Reissue 13),Pink Floyd,Harvest,1979,Progressive Rock,UK,LP,4.0,CAT-1684,Accepted,discogs_sample
+discogs_686,Songs in the Key of Life (Reissue 13),Stevie Wonder,Tamla,1982,Soul,US,LP,4.7,CAT-1685,Accepted,discogs_sample
+discogs_687,Rumours (Reissue 13),Fleetwood Mac,Warner Bros.,1983,Rock,US,LP,3.0,CAT-1686,Accepted,discogs_sample
+discogs_688,Unknown Pleasures (Reissue 13),Joy Division,Factory,1985,Post-Punk,UK,LP,3.8,CAT-1687,Accepted,discogs_sample
+discogs_689,London Calling (Reissue 13),The Clash,CBS,1985,Punk,UK,"12""",4.4,CAT-1688,Accepted,discogs_sample
+discogs_690,Purple Rain (Reissue 13),Prince,Warner Bros.,1990,Pop,US,LP,3.8,CAT-1689,Accepted,discogs_sample
+discogs_691,Kind of Blue (Reissue 13),Miles Davis,Columbia,1965,Jazz,US,LP,5.0,CAT-1690,Accepted,discogs_sample
+discogs_692,Pet Sounds (Reissue 13),The Beach Boys,Capitol,1972,Pop,US,"12""",5.0,CAT-1691,Accepted,discogs_sample
+discogs_693,Sgt. Pepper's Lonely Hearts Club Band (Reissue 13),The Beatles,Parlophone,1973,Rock,UK,"12""",3.3,CAT-1692,Accepted,discogs_sample
+discogs_694,What's Going On (Reissue 13),Marvin Gaye,Tamla,1977,Soul,US,LP,4.0,CAT-1693,Accepted,discogs_sample
+discogs_695,The Dark Side of the Moon (Reissue 13),Pink Floyd,Harvest,1979,Progressive Rock,UK,LP,3.0,CAT-1694,Accepted,discogs_sample
+discogs_696,Songs in the Key of Life (Reissue 13),Stevie Wonder,Tamla,1982,Soul,US,LP,3.7,CAT-1695,Accepted,discogs_sample
+discogs_697,Rumours (Reissue 13),Fleetwood Mac,Warner Bros.,1983,Rock,US,"12""",5.0,CAT-1696,Accepted,discogs_sample
+discogs_698,Unknown Pleasures (Reissue 13),Joy Division,Factory,1985,Post-Punk,UK,LP,3.7,CAT-1697,Accepted,discogs_sample
+discogs_699,London Calling (Reissue 13),The Clash,CBS,1985,Punk,UK,"12""",3.2,CAT-1698,Accepted,discogs_sample
+discogs_700,Purple Rain (Reissue 13),Prince,Warner Bros.,1990,Pop,US,"7""",4.5,CAT-1699,Accepted,discogs_sample
+discogs_701,Kind of Blue (Reissue 14),Miles Davis,Columbia,1966,Jazz,US,LP,3.6,CAT-1700,Accepted,discogs_sample
+discogs_702,Pet Sounds (Reissue 14),The Beach Boys,Capitol,1973,Pop,US,"7""",5.0,CAT-1701,Accepted,discogs_sample
+discogs_703,Sgt. Pepper's Lonely Hearts Club Band (Reissue 14),The Beatles,Parlophone,1974,Rock,UK,LP,4.0,CAT-1702,Accepted,discogs_sample
+discogs_704,What's Going On (Reissue 14),Marvin Gaye,Tamla,1978,Soul,US,"12""",4.1,CAT-1703,Accepted,discogs_sample
+discogs_705,The Dark Side of the Moon (Reissue 14),Pink Floyd,Harvest,1980,Progressive Rock,UK,LP,4.9,CAT-1704,Accepted,discogs_sample
+discogs_706,Songs in the Key of Life (Reissue 14),Stevie Wonder,Tamla,1983,Soul,US,LP,5.0,CAT-1705,Accepted,discogs_sample
+discogs_707,Rumours (Reissue 14),Fleetwood Mac,Warner Bros.,1984,Rock,US,LP,3.5,CAT-1706,Accepted,discogs_sample
+discogs_708,Unknown Pleasures (Reissue 14),Joy Division,Factory,1986,Post-Punk,UK,LP,4.2,CAT-1707,Accepted,discogs_sample
+discogs_709,London Calling (Reissue 14),The Clash,CBS,1986,Punk,UK,LP,4.1,CAT-1708,Accepted,discogs_sample
+discogs_710,Purple Rain (Reissue 14),Prince,Warner Bros.,1991,Pop,US,"12""",3.9,CAT-1709,Accepted,discogs_sample
+discogs_711,Kind of Blue (Reissue 14),Miles Davis,Columbia,1966,Jazz,US,"12""",3.7,CAT-1710,Accepted,discogs_sample
+discogs_712,Pet Sounds (Reissue 14),The Beach Boys,Capitol,1973,Pop,US,"7""",3.4,CAT-1711,Accepted,discogs_sample
+discogs_713,Sgt. Pepper's Lonely Hearts Club Band (Reissue 14),The Beatles,Parlophone,1974,Rock,UK,LP,3.4,CAT-1712,Accepted,discogs_sample
+discogs_714,What's Going On (Reissue 14),Marvin Gaye,Tamla,1978,Soul,US,"7""",4.5,CAT-1713,Accepted,discogs_sample
+discogs_715,The Dark Side of the Moon (Reissue 14),Pink Floyd,Harvest,1980,Progressive Rock,UK,"7""",4.0,CAT-1714,Accepted,discogs_sample
+discogs_716,Songs in the Key of Life (Reissue 14),Stevie Wonder,Tamla,1983,Soul,US,LP,4.3,CAT-1715,Accepted,discogs_sample
+discogs_717,Rumours (Reissue 14),Fleetwood Mac,Warner Bros.,1984,Rock,US,"7""",4.7,CAT-1716,Accepted,discogs_sample
+discogs_718,Unknown Pleasures (Reissue 14),Joy Division,Factory,1986,Post-Punk,UK,"12""",2.4,CAT-1717,Accepted,discogs_sample
+discogs_719,London Calling (Reissue 14),The Clash,CBS,1986,Punk,UK,LP,5.0,CAT-1718,Accepted,discogs_sample
+discogs_720,Purple Rain (Reissue 14),Prince,Warner Bros.,1991,Pop,US,LP,3.9,CAT-1719,Accepted,discogs_sample
+discogs_721,Kind of Blue (Reissue 14),Miles Davis,Columbia,1966,Jazz,US,"7""",4.8,CAT-1720,Accepted,discogs_sample
+discogs_722,Pet Sounds (Reissue 14),The Beach Boys,Capitol,1973,Pop,US,LP,3.7,CAT-1721,Accepted,discogs_sample
+discogs_723,Sgt. Pepper's Lonely Hearts Club Band (Reissue 14),The Beatles,Parlophone,1974,Rock,UK,LP,3.7,CAT-1722,Accepted,discogs_sample
+discogs_724,What's Going On (Reissue 14),Marvin Gaye,Tamla,1978,Soul,US,"7""",4.2,CAT-1723,Accepted,discogs_sample
+discogs_725,The Dark Side of the Moon (Reissue 14),Pink Floyd,Harvest,1980,Progressive Rock,UK,LP,4.9,CAT-1724,Accepted,discogs_sample
+discogs_726,Songs in the Key of Life (Reissue 14),Stevie Wonder,Tamla,1983,Soul,US,LP,5.0,CAT-1725,Accepted,discogs_sample
+discogs_727,Rumours (Reissue 14),Fleetwood Mac,Warner Bros.,1984,Rock,US,LP,5.0,CAT-1726,Accepted,discogs_sample
+discogs_728,Unknown Pleasures (Reissue 14),Joy Division,Factory,1986,Post-Punk,UK,"12""",4.8,CAT-1727,Accepted,discogs_sample
+discogs_729,London Calling (Reissue 14),The Clash,CBS,1986,Punk,UK,LP,4.3,CAT-1728,Accepted,discogs_sample
+discogs_730,Purple Rain (Reissue 14),Prince,Warner Bros.,1991,Pop,US,LP,5.0,CAT-1729,Accepted,discogs_sample
+discogs_731,Kind of Blue (Reissue 14),Miles Davis,Columbia,1966,Jazz,US,"12""",3.8,CAT-1730,Accepted,discogs_sample
+discogs_732,Pet Sounds (Reissue 14),The Beach Boys,Capitol,1973,Pop,US,LP,4.1,CAT-1731,Accepted,discogs_sample
+discogs_733,Sgt. Pepper's Lonely Hearts Club Band (Reissue 14),The Beatles,Parlophone,1974,Rock,UK,LP,4.3,CAT-1732,Accepted,discogs_sample
+discogs_734,What's Going On (Reissue 14),Marvin Gaye,Tamla,1978,Soul,US,"7""",4.6,CAT-1733,Accepted,discogs_sample
+discogs_735,The Dark Side of the Moon (Reissue 14),Pink Floyd,Harvest,1980,Progressive Rock,UK,LP,3.6,CAT-1734,Accepted,discogs_sample
+discogs_736,Songs in the Key of Life (Reissue 14),Stevie Wonder,Tamla,1983,Soul,US,"7""",4.0,CAT-1735,Accepted,discogs_sample
+discogs_737,Rumours (Reissue 14),Fleetwood Mac,Warner Bros.,1984,Rock,US,LP,5.0,CAT-1736,Accepted,discogs_sample
+discogs_738,Unknown Pleasures (Reissue 14),Joy Division,Factory,1986,Post-Punk,UK,"12""",4.2,CAT-1737,Accepted,discogs_sample
+discogs_739,London Calling (Reissue 14),The Clash,CBS,1986,Punk,UK,LP,5.0,CAT-1738,Accepted,discogs_sample
+discogs_740,Purple Rain (Reissue 14),Prince,Warner Bros.,1991,Pop,US,"12""",4.6,CAT-1739,Accepted,discogs_sample
+discogs_741,Kind of Blue (Reissue 14),Miles Davis,Columbia,1966,Jazz,US,LP,3.0,CAT-1740,Accepted,discogs_sample
+discogs_742,Pet Sounds (Reissue 14),The Beach Boys,Capitol,1973,Pop,US,LP,3.7,CAT-1741,Accepted,discogs_sample
+discogs_743,Sgt. Pepper's Lonely Hearts Club Band (Reissue 14),The Beatles,Parlophone,1974,Rock,UK,LP,4.0,CAT-1742,Accepted,discogs_sample
+discogs_744,What's Going On (Reissue 14),Marvin Gaye,Tamla,1978,Soul,US,LP,4.4,CAT-1743,Accepted,discogs_sample
+discogs_745,The Dark Side of the Moon (Reissue 14),Pink Floyd,Harvest,1980,Progressive Rock,UK,LP,3.7,CAT-1744,Accepted,discogs_sample
+discogs_746,Songs in the Key of Life (Reissue 14),Stevie Wonder,Tamla,1983,Soul,US,LP,3.9,CAT-1745,Accepted,discogs_sample
+discogs_747,Rumours (Reissue 14),Fleetwood Mac,Warner Bros.,1984,Rock,US,LP,4.3,CAT-1746,Accepted,discogs_sample
+discogs_748,Unknown Pleasures (Reissue 14),Joy Division,Factory,1986,Post-Punk,UK,LP,4.6,CAT-1747,Accepted,discogs_sample
+discogs_749,London Calling (Reissue 14),The Clash,CBS,1986,Punk,UK,LP,4.6,CAT-1748,Accepted,discogs_sample
+discogs_750,Purple Rain (Reissue 14),Prince,Warner Bros.,1991,Pop,US,LP,4.8,CAT-1749,Accepted,discogs_sample
+discogs_751,Kind of Blue (Reissue 15),Miles Davis,Columbia,1966,Jazz,US,LP,2.9,CAT-1750,Accepted,discogs_sample
+discogs_752,Pet Sounds (Reissue 15),The Beach Boys,Capitol,1973,Pop,US,LP,2.7,CAT-1751,Accepted,discogs_sample
+discogs_753,Sgt. Pepper's Lonely Hearts Club Band (Reissue 15),The Beatles,Parlophone,1974,Rock,UK,"7""",4.5,CAT-1752,Accepted,discogs_sample
+discogs_754,What's Going On (Reissue 15),Marvin Gaye,Tamla,1978,Soul,US,LP,4.3,CAT-1753,Accepted,discogs_sample
+discogs_755,The Dark Side of the Moon (Reissue 15),Pink Floyd,Harvest,1980,Progressive Rock,UK,"7""",4.6,CAT-1754,Accepted,discogs_sample
+discogs_756,Songs in the Key of Life (Reissue 15),Stevie Wonder,Tamla,1983,Soul,US,LP,4.8,CAT-1755,Accepted,discogs_sample
+discogs_757,Rumours (Reissue 15),Fleetwood Mac,Warner Bros.,1984,Rock,US,LP,3.5,CAT-1756,Accepted,discogs_sample
+discogs_758,Unknown Pleasures (Reissue 15),Joy Division,Factory,1986,Post-Punk,UK,"7""",4.6,CAT-1757,Accepted,discogs_sample
+discogs_759,London Calling (Reissue 15),The Clash,CBS,1986,Punk,UK,"12""",4.3,CAT-1758,Accepted,discogs_sample
+discogs_760,Purple Rain (Reissue 15),Prince,Warner Bros.,1991,Pop,US,"7""",4.0,CAT-1759,Accepted,discogs_sample
+discogs_761,Kind of Blue (Reissue 15),Miles Davis,Columbia,1966,Jazz,US,LP,4.8,CAT-1760,Accepted,discogs_sample
+discogs_762,Pet Sounds (Reissue 15),The Beach Boys,Capitol,1973,Pop,US,LP,4.4,CAT-1761,Accepted,discogs_sample
+discogs_763,Sgt. Pepper's Lonely Hearts Club Band (Reissue 15),The Beatles,Parlophone,1974,Rock,UK,"7""",3.1,CAT-1762,Accepted,discogs_sample
+discogs_764,What's Going On (Reissue 15),Marvin Gaye,Tamla,1978,Soul,US,"12""",3.5,CAT-1763,Accepted,discogs_sample
+discogs_765,The Dark Side of the Moon (Reissue 15),Pink Floyd,Harvest,1980,Progressive Rock,UK,LP,4.3,CAT-1764,Accepted,discogs_sample
+discogs_766,Songs in the Key of Life (Reissue 15),Stevie Wonder,Tamla,1983,Soul,US,LP,3.7,CAT-1765,Accepted,discogs_sample
+discogs_767,Rumours (Reissue 15),Fleetwood Mac,Warner Bros.,1984,Rock,US,LP,5.0,CAT-1766,Accepted,discogs_sample
+discogs_768,Unknown Pleasures (Reissue 15),Joy Division,Factory,1986,Post-Punk,UK,LP,4.6,CAT-1767,Accepted,discogs_sample
+discogs_769,London Calling (Reissue 15),The Clash,CBS,1986,Punk,UK,LP,4.1,CAT-1768,Accepted,discogs_sample
+discogs_770,Purple Rain (Reissue 15),Prince,Warner Bros.,1991,Pop,US,"7""",4.8,CAT-1769,Accepted,discogs_sample
+discogs_771,Kind of Blue (Reissue 15),Miles Davis,Columbia,1966,Jazz,US,LP,3.9,CAT-1770,Accepted,discogs_sample
+discogs_772,Pet Sounds (Reissue 15),The Beach Boys,Capitol,1973,Pop,US,"12""",3.8,CAT-1771,Accepted,discogs_sample
+discogs_773,Sgt. Pepper's Lonely Hearts Club Band (Reissue 15),The Beatles,Parlophone,1974,Rock,UK,"7""",4.9,CAT-1772,Accepted,discogs_sample
+discogs_774,What's Going On (Reissue 15),Marvin Gaye,Tamla,1978,Soul,US,"12""",4.5,CAT-1773,Accepted,discogs_sample
+discogs_775,The Dark Side of the Moon (Reissue 15),Pink Floyd,Harvest,1980,Progressive Rock,UK,LP,4.4,CAT-1774,Accepted,discogs_sample
+discogs_776,Songs in the Key of Life (Reissue 15),Stevie Wonder,Tamla,1983,Soul,US,LP,5.0,CAT-1775,Accepted,discogs_sample
+discogs_777,Rumours (Reissue 15),Fleetwood Mac,Warner Bros.,1984,Rock,US,"7""",4.1,CAT-1776,Accepted,discogs_sample
+discogs_778,Unknown Pleasures (Reissue 15),Joy Division,Factory,1986,Post-Punk,UK,LP,4.0,CAT-1777,Accepted,discogs_sample
+discogs_779,London Calling (Reissue 15),The Clash,CBS,1986,Punk,UK,LP,4.3,CAT-1778,Accepted,discogs_sample
+discogs_780,Purple Rain (Reissue 15),Prince,Warner Bros.,1991,Pop,US,LP,4.4,CAT-1779,Accepted,discogs_sample
+discogs_781,Kind of Blue (Reissue 15),Miles Davis,Columbia,1966,Jazz,US,"7""",4.2,CAT-1780,Accepted,discogs_sample
+discogs_782,Pet Sounds (Reissue 15),The Beach Boys,Capitol,1973,Pop,US,LP,4.4,CAT-1781,Accepted,discogs_sample
+discogs_783,Sgt. Pepper's Lonely Hearts Club Band (Reissue 15),The Beatles,Parlophone,1974,Rock,UK,LP,4.4,CAT-1782,Accepted,discogs_sample
+discogs_784,What's Going On (Reissue 15),Marvin Gaye,Tamla,1978,Soul,US,LP,3.4,CAT-1783,Accepted,discogs_sample
+discogs_785,The Dark Side of the Moon (Reissue 15),Pink Floyd,Harvest,1980,Progressive Rock,UK,"7""",5.0,CAT-1784,Accepted,discogs_sample
+discogs_786,Songs in the Key of Life (Reissue 15),Stevie Wonder,Tamla,1983,Soul,US,"12""",3.6,CAT-1785,Accepted,discogs_sample
+discogs_787,Rumours (Reissue 15),Fleetwood Mac,Warner Bros.,1984,Rock,US,"7""",3.8,CAT-1786,Accepted,discogs_sample
+discogs_788,Unknown Pleasures (Reissue 15),Joy Division,Factory,1986,Post-Punk,UK,LP,4.4,CAT-1787,Accepted,discogs_sample
+discogs_789,London Calling (Reissue 15),The Clash,CBS,1986,Punk,UK,"7""",4.0,CAT-1788,Accepted,discogs_sample
+discogs_790,Purple Rain (Reissue 15),Prince,Warner Bros.,1991,Pop,US,"7""",3.1,CAT-1789,Accepted,discogs_sample
+discogs_791,Kind of Blue (Reissue 15),Miles Davis,Columbia,1966,Jazz,US,LP,4.2,CAT-1790,Accepted,discogs_sample
+discogs_792,Pet Sounds (Reissue 15),The Beach Boys,Capitol,1973,Pop,US,"12""",4.8,CAT-1791,Accepted,discogs_sample
+discogs_793,Sgt. Pepper's Lonely Hearts Club Band (Reissue 15),The Beatles,Parlophone,1974,Rock,UK,LP,3.9,CAT-1792,Accepted,discogs_sample
+discogs_794,What's Going On (Reissue 15),Marvin Gaye,Tamla,1978,Soul,US,"12""",4.0,CAT-1793,Accepted,discogs_sample
+discogs_795,The Dark Side of the Moon (Reissue 15),Pink Floyd,Harvest,1980,Progressive Rock,UK,"12""",4.6,CAT-1794,Accepted,discogs_sample
+discogs_796,Songs in the Key of Life (Reissue 15),Stevie Wonder,Tamla,1983,Soul,US,"12""",4.9,CAT-1795,Accepted,discogs_sample
+discogs_797,Rumours (Reissue 15),Fleetwood Mac,Warner Bros.,1984,Rock,US,LP,4.8,CAT-1796,Accepted,discogs_sample
+discogs_798,Unknown Pleasures (Reissue 15),Joy Division,Factory,1986,Post-Punk,UK,LP,4.4,CAT-1797,Accepted,discogs_sample
+discogs_799,London Calling (Reissue 15),The Clash,CBS,1986,Punk,UK,LP,4.1,CAT-1798,Accepted,discogs_sample
+discogs_800,Purple Rain (Reissue 15),Prince,Warner Bros.,1991,Pop,US,LP,4.1,CAT-1799,Accepted,discogs_sample
+discogs_801,Kind of Blue (Reissue 16),Miles Davis,Columbia,1967,Jazz,US,"7""",3.8,CAT-1800,Accepted,discogs_sample
+discogs_802,Pet Sounds (Reissue 16),The Beach Boys,Capitol,1974,Pop,US,"7""",3.1,CAT-1801,Accepted,discogs_sample
+discogs_803,Sgt. Pepper's Lonely Hearts Club Band (Reissue 16),The Beatles,Parlophone,1975,Rock,UK,LP,3.9,CAT-1802,Accepted,discogs_sample
+discogs_804,What's Going On (Reissue 16),Marvin Gaye,Tamla,1979,Soul,US,LP,4.4,CAT-1803,Accepted,discogs_sample
+discogs_805,The Dark Side of the Moon (Reissue 16),Pink Floyd,Harvest,1981,Progressive Rock,UK,LP,3.5,CAT-1804,Accepted,discogs_sample
+discogs_806,Songs in the Key of Life (Reissue 16),Stevie Wonder,Tamla,1984,Soul,US,LP,4.4,CAT-1805,Accepted,discogs_sample
+discogs_807,Rumours (Reissue 16),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,4.0,CAT-1806,Accepted,discogs_sample
+discogs_808,Unknown Pleasures (Reissue 16),Joy Division,Factory,1987,Post-Punk,UK,LP,3.1,CAT-1807,Accepted,discogs_sample
+discogs_809,London Calling (Reissue 16),The Clash,CBS,1987,Punk,UK,"12""",4.3,CAT-1808,Accepted,discogs_sample
+discogs_810,Purple Rain (Reissue 16),Prince,Warner Bros.,1992,Pop,US,LP,4.3,CAT-1809,Accepted,discogs_sample
+discogs_811,Kind of Blue (Reissue 16),Miles Davis,Columbia,1967,Jazz,US,LP,3.6,CAT-1810,Accepted,discogs_sample
+discogs_812,Pet Sounds (Reissue 16),The Beach Boys,Capitol,1974,Pop,US,LP,3.6,CAT-1811,Accepted,discogs_sample
+discogs_813,Sgt. Pepper's Lonely Hearts Club Band (Reissue 16),The Beatles,Parlophone,1975,Rock,UK,"12""",5.0,CAT-1812,Accepted,discogs_sample
+discogs_814,What's Going On (Reissue 16),Marvin Gaye,Tamla,1979,Soul,US,"7""",4.8,CAT-1813,Accepted,discogs_sample
+discogs_815,The Dark Side of the Moon (Reissue 16),Pink Floyd,Harvest,1981,Progressive Rock,UK,"7""",5.0,CAT-1814,Accepted,discogs_sample
+discogs_816,Songs in the Key of Life (Reissue 16),Stevie Wonder,Tamla,1984,Soul,US,"12""",3.3,CAT-1815,Accepted,discogs_sample
+discogs_817,Rumours (Reissue 16),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,3.6,CAT-1816,Accepted,discogs_sample
+discogs_818,Unknown Pleasures (Reissue 16),Joy Division,Factory,1987,Post-Punk,UK,LP,4.7,CAT-1817,Accepted,discogs_sample
+discogs_819,London Calling (Reissue 16),The Clash,CBS,1987,Punk,UK,"12""",4.5,CAT-1818,Accepted,discogs_sample
+discogs_820,Purple Rain (Reissue 16),Prince,Warner Bros.,1992,Pop,US,LP,4.4,CAT-1819,Accepted,discogs_sample
+discogs_821,Kind of Blue (Reissue 16),Miles Davis,Columbia,1967,Jazz,US,LP,4.4,CAT-1820,Accepted,discogs_sample
+discogs_822,Pet Sounds (Reissue 16),The Beach Boys,Capitol,1974,Pop,US,LP,3.4,CAT-1821,Accepted,discogs_sample
+discogs_823,Sgt. Pepper's Lonely Hearts Club Band (Reissue 16),The Beatles,Parlophone,1975,Rock,UK,"12""",3.9,CAT-1822,Accepted,discogs_sample
+discogs_824,What's Going On (Reissue 16),Marvin Gaye,Tamla,1979,Soul,US,LP,3.6,CAT-1823,Accepted,discogs_sample
+discogs_825,The Dark Side of the Moon (Reissue 16),Pink Floyd,Harvest,1981,Progressive Rock,UK,LP,3.6,CAT-1824,Accepted,discogs_sample
+discogs_826,Songs in the Key of Life (Reissue 16),Stevie Wonder,Tamla,1984,Soul,US,LP,5.0,CAT-1825,Accepted,discogs_sample
+discogs_827,Rumours (Reissue 16),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,4.4,CAT-1826,Accepted,discogs_sample
+discogs_828,Unknown Pleasures (Reissue 16),Joy Division,Factory,1987,Post-Punk,UK,LP,3.5,CAT-1827,Accepted,discogs_sample
+discogs_829,London Calling (Reissue 16),The Clash,CBS,1987,Punk,UK,LP,4.5,CAT-1828,Accepted,discogs_sample
+discogs_830,Purple Rain (Reissue 16),Prince,Warner Bros.,1992,Pop,US,"12""",4.8,CAT-1829,Accepted,discogs_sample
+discogs_831,Kind of Blue (Reissue 16),Miles Davis,Columbia,1967,Jazz,US,LP,3.5,CAT-1830,Accepted,discogs_sample
+discogs_832,Pet Sounds (Reissue 16),The Beach Boys,Capitol,1974,Pop,US,LP,4.6,CAT-1831,Accepted,discogs_sample
+discogs_833,Sgt. Pepper's Lonely Hearts Club Band (Reissue 16),The Beatles,Parlophone,1975,Rock,UK,"12""",3.3,CAT-1832,Accepted,discogs_sample
+discogs_834,What's Going On (Reissue 16),Marvin Gaye,Tamla,1979,Soul,US,LP,4.9,CAT-1833,Accepted,discogs_sample
+discogs_835,The Dark Side of the Moon (Reissue 16),Pink Floyd,Harvest,1981,Progressive Rock,UK,LP,5.0,CAT-1834,Accepted,discogs_sample
+discogs_836,Songs in the Key of Life (Reissue 16),Stevie Wonder,Tamla,1984,Soul,US,"12""",4.2,CAT-1835,Accepted,discogs_sample
+discogs_837,Rumours (Reissue 16),Fleetwood Mac,Warner Bros.,1985,Rock,US,"7""",4.2,CAT-1836,Accepted,discogs_sample
+discogs_838,Unknown Pleasures (Reissue 16),Joy Division,Factory,1987,Post-Punk,UK,"12""",4.1,CAT-1837,Accepted,discogs_sample
+discogs_839,London Calling (Reissue 16),The Clash,CBS,1987,Punk,UK,LP,4.9,CAT-1838,Accepted,discogs_sample
+discogs_840,Purple Rain (Reissue 16),Prince,Warner Bros.,1992,Pop,US,LP,3.5,CAT-1839,Accepted,discogs_sample
+discogs_841,Kind of Blue (Reissue 16),Miles Davis,Columbia,1967,Jazz,US,LP,3.6,CAT-1840,Accepted,discogs_sample
+discogs_842,Pet Sounds (Reissue 16),The Beach Boys,Capitol,1974,Pop,US,"12""",4.3,CAT-1841,Accepted,discogs_sample
+discogs_843,Sgt. Pepper's Lonely Hearts Club Band (Reissue 16),The Beatles,Parlophone,1975,Rock,UK,LP,4.1,CAT-1842,Accepted,discogs_sample
+discogs_844,What's Going On (Reissue 16),Marvin Gaye,Tamla,1979,Soul,US,"12""",3.3,CAT-1843,Accepted,discogs_sample
+discogs_845,The Dark Side of the Moon (Reissue 16),Pink Floyd,Harvest,1981,Progressive Rock,UK,"12""",5.0,CAT-1844,Accepted,discogs_sample
+discogs_846,Songs in the Key of Life (Reissue 16),Stevie Wonder,Tamla,1984,Soul,US,LP,4.3,CAT-1845,Accepted,discogs_sample
+discogs_847,Rumours (Reissue 16),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,3.3,CAT-1846,Accepted,discogs_sample
+discogs_848,Unknown Pleasures (Reissue 16),Joy Division,Factory,1987,Post-Punk,UK,LP,4.2,CAT-1847,Accepted,discogs_sample
+discogs_849,London Calling (Reissue 16),The Clash,CBS,1987,Punk,UK,LP,3.3,CAT-1848,Accepted,discogs_sample
+discogs_850,Purple Rain (Reissue 16),Prince,Warner Bros.,1992,Pop,US,"12""",3.3,CAT-1849,Accepted,discogs_sample
+discogs_851,Kind of Blue (Reissue 17),Miles Davis,Columbia,1967,Jazz,US,LP,3.5,CAT-1850,Accepted,discogs_sample
+discogs_852,Pet Sounds (Reissue 17),The Beach Boys,Capitol,1974,Pop,US,"7""",3.4,CAT-1851,Accepted,discogs_sample
+discogs_853,Sgt. Pepper's Lonely Hearts Club Band (Reissue 17),The Beatles,Parlophone,1975,Rock,UK,"12""",3.9,CAT-1852,Accepted,discogs_sample
+discogs_854,What's Going On (Reissue 17),Marvin Gaye,Tamla,1979,Soul,US,LP,4.9,CAT-1853,Accepted,discogs_sample
+discogs_855,The Dark Side of the Moon (Reissue 17),Pink Floyd,Harvest,1981,Progressive Rock,UK,LP,4.7,CAT-1854,Accepted,discogs_sample
+discogs_856,Songs in the Key of Life (Reissue 17),Stevie Wonder,Tamla,1984,Soul,US,"12""",4.4,CAT-1855,Accepted,discogs_sample
+discogs_857,Rumours (Reissue 17),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,4.9,CAT-1856,Accepted,discogs_sample
+discogs_858,Unknown Pleasures (Reissue 17),Joy Division,Factory,1987,Post-Punk,UK,LP,4.7,CAT-1857,Accepted,discogs_sample
+discogs_859,London Calling (Reissue 17),The Clash,CBS,1987,Punk,UK,LP,4.7,CAT-1858,Accepted,discogs_sample
+discogs_860,Purple Rain (Reissue 17),Prince,Warner Bros.,1992,Pop,US,LP,3.3,CAT-1859,Accepted,discogs_sample
+discogs_861,Kind of Blue (Reissue 17),Miles Davis,Columbia,1967,Jazz,US,LP,3.0,CAT-1860,Accepted,discogs_sample
+discogs_862,Pet Sounds (Reissue 17),The Beach Boys,Capitol,1974,Pop,US,"7""",2.8,CAT-1861,Accepted,discogs_sample
+discogs_863,Sgt. Pepper's Lonely Hearts Club Band (Reissue 17),The Beatles,Parlophone,1975,Rock,UK,"7""",4.4,CAT-1862,Accepted,discogs_sample
+discogs_864,What's Going On (Reissue 17),Marvin Gaye,Tamla,1979,Soul,US,LP,4.1,CAT-1863,Accepted,discogs_sample
+discogs_865,The Dark Side of the Moon (Reissue 17),Pink Floyd,Harvest,1981,Progressive Rock,UK,"12""",4.8,CAT-1864,Accepted,discogs_sample
+discogs_866,Songs in the Key of Life (Reissue 17),Stevie Wonder,Tamla,1984,Soul,US,LP,3.3,CAT-1865,Accepted,discogs_sample
+discogs_867,Rumours (Reissue 17),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,3.1,CAT-1866,Accepted,discogs_sample
+discogs_868,Unknown Pleasures (Reissue 17),Joy Division,Factory,1987,Post-Punk,UK,"12""",3.3,CAT-1867,Accepted,discogs_sample
+discogs_869,London Calling (Reissue 17),The Clash,CBS,1987,Punk,UK,LP,4.6,CAT-1868,Accepted,discogs_sample
+discogs_870,Purple Rain (Reissue 17),Prince,Warner Bros.,1992,Pop,US,LP,2.8,CAT-1869,Accepted,discogs_sample
+discogs_871,Kind of Blue (Reissue 17),Miles Davis,Columbia,1967,Jazz,US,"7""",4.4,CAT-1870,Accepted,discogs_sample
+discogs_872,Pet Sounds (Reissue 17),The Beach Boys,Capitol,1974,Pop,US,LP,3.8,CAT-1871,Accepted,discogs_sample
+discogs_873,Sgt. Pepper's Lonely Hearts Club Band (Reissue 17),The Beatles,Parlophone,1975,Rock,UK,LP,4.3,CAT-1872,Accepted,discogs_sample
+discogs_874,What's Going On (Reissue 17),Marvin Gaye,Tamla,1979,Soul,US,LP,4.7,CAT-1873,Accepted,discogs_sample
+discogs_875,The Dark Side of the Moon (Reissue 17),Pink Floyd,Harvest,1981,Progressive Rock,UK,"7""",4.1,CAT-1874,Accepted,discogs_sample
+discogs_876,Songs in the Key of Life (Reissue 17),Stevie Wonder,Tamla,1984,Soul,US,LP,4.3,CAT-1875,Accepted,discogs_sample
+discogs_877,Rumours (Reissue 17),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,4.5,CAT-1876,Accepted,discogs_sample
+discogs_878,Unknown Pleasures (Reissue 17),Joy Division,Factory,1987,Post-Punk,UK,LP,4.6,CAT-1877,Accepted,discogs_sample
+discogs_879,London Calling (Reissue 17),The Clash,CBS,1987,Punk,UK,LP,4.4,CAT-1878,Accepted,discogs_sample
+discogs_880,Purple Rain (Reissue 17),Prince,Warner Bros.,1992,Pop,US,LP,4.2,CAT-1879,Accepted,discogs_sample
+discogs_881,Kind of Blue (Reissue 17),Miles Davis,Columbia,1967,Jazz,US,LP,5.0,CAT-1880,Accepted,discogs_sample
+discogs_882,Pet Sounds (Reissue 17),The Beach Boys,Capitol,1974,Pop,US,LP,3.6,CAT-1881,Accepted,discogs_sample
+discogs_883,Sgt. Pepper's Lonely Hearts Club Band (Reissue 17),The Beatles,Parlophone,1975,Rock,UK,LP,4.7,CAT-1882,Accepted,discogs_sample
+discogs_884,What's Going On (Reissue 17),Marvin Gaye,Tamla,1979,Soul,US,"12""",5.0,CAT-1883,Accepted,discogs_sample
+discogs_885,The Dark Side of the Moon (Reissue 17),Pink Floyd,Harvest,1981,Progressive Rock,UK,"7""",4.0,CAT-1884,Accepted,discogs_sample
+discogs_886,Songs in the Key of Life (Reissue 17),Stevie Wonder,Tamla,1984,Soul,US,"12""",5.0,CAT-1885,Accepted,discogs_sample
+discogs_887,Rumours (Reissue 17),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,5.0,CAT-1886,Accepted,discogs_sample
+discogs_888,Unknown Pleasures (Reissue 17),Joy Division,Factory,1987,Post-Punk,UK,LP,4.9,CAT-1887,Accepted,discogs_sample
+discogs_889,London Calling (Reissue 17),The Clash,CBS,1987,Punk,UK,"12""",4.8,CAT-1888,Accepted,discogs_sample
+discogs_890,Purple Rain (Reissue 17),Prince,Warner Bros.,1992,Pop,US,LP,3.7,CAT-1889,Accepted,discogs_sample
+discogs_891,Kind of Blue (Reissue 17),Miles Davis,Columbia,1967,Jazz,US,LP,4.4,CAT-1890,Accepted,discogs_sample
+discogs_892,Pet Sounds (Reissue 17),The Beach Boys,Capitol,1974,Pop,US,LP,5.0,CAT-1891,Accepted,discogs_sample
+discogs_893,Sgt. Pepper's Lonely Hearts Club Band (Reissue 17),The Beatles,Parlophone,1975,Rock,UK,LP,3.8,CAT-1892,Accepted,discogs_sample
+discogs_894,What's Going On (Reissue 17),Marvin Gaye,Tamla,1979,Soul,US,LP,4.4,CAT-1893,Accepted,discogs_sample
+discogs_895,The Dark Side of the Moon (Reissue 17),Pink Floyd,Harvest,1981,Progressive Rock,UK,LP,4.2,CAT-1894,Accepted,discogs_sample
+discogs_896,Songs in the Key of Life (Reissue 17),Stevie Wonder,Tamla,1984,Soul,US,"12""",3.2,CAT-1895,Accepted,discogs_sample
+discogs_897,Rumours (Reissue 17),Fleetwood Mac,Warner Bros.,1985,Rock,US,LP,3.3,CAT-1896,Accepted,discogs_sample
+discogs_898,Unknown Pleasures (Reissue 17),Joy Division,Factory,1987,Post-Punk,UK,"7""",4.1,CAT-1897,Accepted,discogs_sample
+discogs_899,London Calling (Reissue 17),The Clash,CBS,1987,Punk,UK,"12""",3.9,CAT-1898,Accepted,discogs_sample
+discogs_900,Purple Rain (Reissue 17),Prince,Warner Bros.,1992,Pop,US,LP,3.9,CAT-1899,Accepted,discogs_sample
+discogs_901,Kind of Blue (Reissue 18),Miles Davis,Columbia,1968,Jazz,US,LP,4.7,CAT-1900,Accepted,discogs_sample
+discogs_902,Pet Sounds (Reissue 18),The Beach Boys,Capitol,1975,Pop,US,LP,3.9,CAT-1901,Accepted,discogs_sample
+discogs_903,Sgt. Pepper's Lonely Hearts Club Band (Reissue 18),The Beatles,Parlophone,1976,Rock,UK,LP,4.2,CAT-1902,Accepted,discogs_sample
+discogs_904,What's Going On (Reissue 18),Marvin Gaye,Tamla,1980,Soul,US,LP,4.3,CAT-1903,Accepted,discogs_sample
+discogs_905,The Dark Side of the Moon (Reissue 18),Pink Floyd,Harvest,1982,Progressive Rock,UK,LP,4.6,CAT-1904,Accepted,discogs_sample
+discogs_906,Songs in the Key of Life (Reissue 18),Stevie Wonder,Tamla,1985,Soul,US,LP,3.3,CAT-1905,Accepted,discogs_sample
+discogs_907,Rumours (Reissue 18),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,4.5,CAT-1906,Accepted,discogs_sample
+discogs_908,Unknown Pleasures (Reissue 18),Joy Division,Factory,1988,Post-Punk,UK,LP,3.6,CAT-1907,Accepted,discogs_sample
+discogs_909,London Calling (Reissue 18),The Clash,CBS,1988,Punk,UK,"7""",4.5,CAT-1908,Accepted,discogs_sample
+discogs_910,Purple Rain (Reissue 18),Prince,Warner Bros.,1993,Pop,US,LP,3.8,CAT-1909,Accepted,discogs_sample
+discogs_911,Kind of Blue (Reissue 18),Miles Davis,Columbia,1968,Jazz,US,"7""",4.2,CAT-1910,Accepted,discogs_sample
+discogs_912,Pet Sounds (Reissue 18),The Beach Boys,Capitol,1975,Pop,US,"12""",4.7,CAT-1911,Accepted,discogs_sample
+discogs_913,Sgt. Pepper's Lonely Hearts Club Band (Reissue 18),The Beatles,Parlophone,1976,Rock,UK,"12""",3.4,CAT-1912,Accepted,discogs_sample
+discogs_914,What's Going On (Reissue 18),Marvin Gaye,Tamla,1980,Soul,US,LP,3.7,CAT-1913,Accepted,discogs_sample
+discogs_915,The Dark Side of the Moon (Reissue 18),Pink Floyd,Harvest,1982,Progressive Rock,UK,"7""",4.4,CAT-1914,Accepted,discogs_sample
+discogs_916,Songs in the Key of Life (Reissue 18),Stevie Wonder,Tamla,1985,Soul,US,LP,4.1,CAT-1915,Accepted,discogs_sample
+discogs_917,Rumours (Reissue 18),Fleetwood Mac,Warner Bros.,1986,Rock,US,"12""",4.3,CAT-1916,Accepted,discogs_sample
+discogs_918,Unknown Pleasures (Reissue 18),Joy Division,Factory,1988,Post-Punk,UK,LP,4.3,CAT-1917,Accepted,discogs_sample
+discogs_919,London Calling (Reissue 18),The Clash,CBS,1988,Punk,UK,LP,3.5,CAT-1918,Accepted,discogs_sample
+discogs_920,Purple Rain (Reissue 18),Prince,Warner Bros.,1993,Pop,US,LP,4.0,CAT-1919,Accepted,discogs_sample
+discogs_921,Kind of Blue (Reissue 18),Miles Davis,Columbia,1968,Jazz,US,LP,3.6,CAT-1920,Accepted,discogs_sample
+discogs_922,Pet Sounds (Reissue 18),The Beach Boys,Capitol,1975,Pop,US,"12""",4.8,CAT-1921,Accepted,discogs_sample
+discogs_923,Sgt. Pepper's Lonely Hearts Club Band (Reissue 18),The Beatles,Parlophone,1976,Rock,UK,"12""",4.4,CAT-1922,Accepted,discogs_sample
+discogs_924,What's Going On (Reissue 18),Marvin Gaye,Tamla,1980,Soul,US,LP,4.2,CAT-1923,Accepted,discogs_sample
+discogs_925,The Dark Side of the Moon (Reissue 18),Pink Floyd,Harvest,1982,Progressive Rock,UK,LP,3.4,CAT-1924,Accepted,discogs_sample
+discogs_926,Songs in the Key of Life (Reissue 18),Stevie Wonder,Tamla,1985,Soul,US,LP,4.8,CAT-1925,Accepted,discogs_sample
+discogs_927,Rumours (Reissue 18),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,4.9,CAT-1926,Accepted,discogs_sample
+discogs_928,Unknown Pleasures (Reissue 18),Joy Division,Factory,1988,Post-Punk,UK,LP,4.4,CAT-1927,Accepted,discogs_sample
+discogs_929,London Calling (Reissue 18),The Clash,CBS,1988,Punk,UK,LP,3.8,CAT-1928,Accepted,discogs_sample
+discogs_930,Purple Rain (Reissue 18),Prince,Warner Bros.,1993,Pop,US,LP,4.7,CAT-1929,Accepted,discogs_sample
+discogs_931,Kind of Blue (Reissue 18),Miles Davis,Columbia,1968,Jazz,US,LP,4.9,CAT-1930,Accepted,discogs_sample
+discogs_932,Pet Sounds (Reissue 18),The Beach Boys,Capitol,1975,Pop,US,LP,3.7,CAT-1931,Accepted,discogs_sample
+discogs_933,Sgt. Pepper's Lonely Hearts Club Band (Reissue 18),The Beatles,Parlophone,1976,Rock,UK,"7""",3.5,CAT-1932,Accepted,discogs_sample
+discogs_934,What's Going On (Reissue 18),Marvin Gaye,Tamla,1980,Soul,US,LP,3.9,CAT-1933,Accepted,discogs_sample
+discogs_935,The Dark Side of the Moon (Reissue 18),Pink Floyd,Harvest,1982,Progressive Rock,UK,LP,4.2,CAT-1934,Accepted,discogs_sample
+discogs_936,Songs in the Key of Life (Reissue 18),Stevie Wonder,Tamla,1985,Soul,US,LP,4.7,CAT-1935,Accepted,discogs_sample
+discogs_937,Rumours (Reissue 18),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,4.5,CAT-1936,Accepted,discogs_sample
+discogs_938,Unknown Pleasures (Reissue 18),Joy Division,Factory,1988,Post-Punk,UK,LP,3.9,CAT-1937,Accepted,discogs_sample
+discogs_939,London Calling (Reissue 18),The Clash,CBS,1988,Punk,UK,"12""",5.0,CAT-1938,Accepted,discogs_sample
+discogs_940,Purple Rain (Reissue 18),Prince,Warner Bros.,1993,Pop,US,LP,3.9,CAT-1939,Accepted,discogs_sample
+discogs_941,Kind of Blue (Reissue 18),Miles Davis,Columbia,1968,Jazz,US,LP,4.2,CAT-1940,Accepted,discogs_sample
+discogs_942,Pet Sounds (Reissue 18),The Beach Boys,Capitol,1975,Pop,US,"7""",5.0,CAT-1941,Accepted,discogs_sample
+discogs_943,Sgt. Pepper's Lonely Hearts Club Band (Reissue 18),The Beatles,Parlophone,1976,Rock,UK,LP,4.4,CAT-1942,Accepted,discogs_sample
+discogs_944,What's Going On (Reissue 18),Marvin Gaye,Tamla,1980,Soul,US,LP,3.5,CAT-1943,Accepted,discogs_sample
+discogs_945,The Dark Side of the Moon (Reissue 18),Pink Floyd,Harvest,1982,Progressive Rock,UK,LP,3.6,CAT-1944,Accepted,discogs_sample
+discogs_946,Songs in the Key of Life (Reissue 18),Stevie Wonder,Tamla,1985,Soul,US,"7""",4.4,CAT-1945,Accepted,discogs_sample
+discogs_947,Rumours (Reissue 18),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,4.7,CAT-1946,Accepted,discogs_sample
+discogs_948,Unknown Pleasures (Reissue 18),Joy Division,Factory,1988,Post-Punk,UK,LP,4.6,CAT-1947,Accepted,discogs_sample
+discogs_949,London Calling (Reissue 18),The Clash,CBS,1988,Punk,UK,LP,5.0,CAT-1948,Accepted,discogs_sample
+discogs_950,Purple Rain (Reissue 18),Prince,Warner Bros.,1993,Pop,US,LP,4.6,CAT-1949,Accepted,discogs_sample
+discogs_951,Kind of Blue (Reissue 19),Miles Davis,Columbia,1968,Jazz,US,"7""",3.4,CAT-1950,Accepted,discogs_sample
+discogs_952,Pet Sounds (Reissue 19),The Beach Boys,Capitol,1975,Pop,US,LP,3.7,CAT-1951,Accepted,discogs_sample
+discogs_953,Sgt. Pepper's Lonely Hearts Club Band (Reissue 19),The Beatles,Parlophone,1976,Rock,UK,LP,4.2,CAT-1952,Accepted,discogs_sample
+discogs_954,What's Going On (Reissue 19),Marvin Gaye,Tamla,1980,Soul,US,LP,3.8,CAT-1953,Accepted,discogs_sample
+discogs_955,The Dark Side of the Moon (Reissue 19),Pink Floyd,Harvest,1982,Progressive Rock,UK,LP,3.7,CAT-1954,Accepted,discogs_sample
+discogs_956,Songs in the Key of Life (Reissue 19),Stevie Wonder,Tamla,1985,Soul,US,"12""",4.1,CAT-1955,Accepted,discogs_sample
+discogs_957,Rumours (Reissue 19),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,5.0,CAT-1956,Accepted,discogs_sample
+discogs_958,Unknown Pleasures (Reissue 19),Joy Division,Factory,1988,Post-Punk,UK,"12""",4.2,CAT-1957,Accepted,discogs_sample
+discogs_959,London Calling (Reissue 19),The Clash,CBS,1988,Punk,UK,LP,4.7,CAT-1958,Accepted,discogs_sample
+discogs_960,Purple Rain (Reissue 19),Prince,Warner Bros.,1993,Pop,US,"12""",5.0,CAT-1959,Accepted,discogs_sample
+discogs_961,Kind of Blue (Reissue 19),Miles Davis,Columbia,1968,Jazz,US,LP,4.4,CAT-1960,Accepted,discogs_sample
+discogs_962,Pet Sounds (Reissue 19),The Beach Boys,Capitol,1975,Pop,US,LP,3.9,CAT-1961,Accepted,discogs_sample
+discogs_963,Sgt. Pepper's Lonely Hearts Club Band (Reissue 19),The Beatles,Parlophone,1976,Rock,UK,"12""",4.4,CAT-1962,Accepted,discogs_sample
+discogs_964,What's Going On (Reissue 19),Marvin Gaye,Tamla,1980,Soul,US,LP,4.8,CAT-1963,Accepted,discogs_sample
+discogs_965,The Dark Side of the Moon (Reissue 19),Pink Floyd,Harvest,1982,Progressive Rock,UK,"12""",4.8,CAT-1964,Accepted,discogs_sample
+discogs_966,Songs in the Key of Life (Reissue 19),Stevie Wonder,Tamla,1985,Soul,US,"12""",2.9,CAT-1965,Accepted,discogs_sample
+discogs_967,Rumours (Reissue 19),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,4.0,CAT-1966,Accepted,discogs_sample
+discogs_968,Unknown Pleasures (Reissue 19),Joy Division,Factory,1988,Post-Punk,UK,LP,5.0,CAT-1967,Accepted,discogs_sample
+discogs_969,London Calling (Reissue 19),The Clash,CBS,1988,Punk,UK,LP,4.1,CAT-1968,Accepted,discogs_sample
+discogs_970,Purple Rain (Reissue 19),Prince,Warner Bros.,1993,Pop,US,LP,3.1,CAT-1969,Accepted,discogs_sample
+discogs_971,Kind of Blue (Reissue 19),Miles Davis,Columbia,1968,Jazz,US,"12""",3.6,CAT-1970,Accepted,discogs_sample
+discogs_972,Pet Sounds (Reissue 19),The Beach Boys,Capitol,1975,Pop,US,"12""",3.5,CAT-1971,Accepted,discogs_sample
+discogs_973,Sgt. Pepper's Lonely Hearts Club Band (Reissue 19),The Beatles,Parlophone,1976,Rock,UK,LP,4.4,CAT-1972,Accepted,discogs_sample
+discogs_974,What's Going On (Reissue 19),Marvin Gaye,Tamla,1980,Soul,US,LP,3.2,CAT-1973,Accepted,discogs_sample
+discogs_975,The Dark Side of the Moon (Reissue 19),Pink Floyd,Harvest,1982,Progressive Rock,UK,LP,4.0,CAT-1974,Accepted,discogs_sample
+discogs_976,Songs in the Key of Life (Reissue 19),Stevie Wonder,Tamla,1985,Soul,US,LP,4.1,CAT-1975,Accepted,discogs_sample
+discogs_977,Rumours (Reissue 19),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,3.7,CAT-1976,Accepted,discogs_sample
+discogs_978,Unknown Pleasures (Reissue 19),Joy Division,Factory,1988,Post-Punk,UK,LP,3.9,CAT-1977,Accepted,discogs_sample
+discogs_979,London Calling (Reissue 19),The Clash,CBS,1988,Punk,UK,LP,4.6,CAT-1978,Accepted,discogs_sample
+discogs_980,Purple Rain (Reissue 19),Prince,Warner Bros.,1993,Pop,US,LP,4.2,CAT-1979,Accepted,discogs_sample
+discogs_981,Kind of Blue (Reissue 19),Miles Davis,Columbia,1968,Jazz,US,"7""",3.6,CAT-1980,Accepted,discogs_sample
+discogs_982,Pet Sounds (Reissue 19),The Beach Boys,Capitol,1975,Pop,US,LP,5.0,CAT-1981,Accepted,discogs_sample
+discogs_983,Sgt. Pepper's Lonely Hearts Club Band (Reissue 19),The Beatles,Parlophone,1976,Rock,UK,"12""",3.8,CAT-1982,Accepted,discogs_sample
+discogs_984,What's Going On (Reissue 19),Marvin Gaye,Tamla,1980,Soul,US,LP,4.8,CAT-1983,Accepted,discogs_sample
+discogs_985,The Dark Side of the Moon (Reissue 19),Pink Floyd,Harvest,1982,Progressive Rock,UK,LP,4.1,CAT-1984,Accepted,discogs_sample
+discogs_986,Songs in the Key of Life (Reissue 19),Stevie Wonder,Tamla,1985,Soul,US,"7""",4.0,CAT-1985,Accepted,discogs_sample
+discogs_987,Rumours (Reissue 19),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,4.3,CAT-1986,Accepted,discogs_sample
+discogs_988,Unknown Pleasures (Reissue 19),Joy Division,Factory,1988,Post-Punk,UK,LP,4.4,CAT-1987,Accepted,discogs_sample
+discogs_989,London Calling (Reissue 19),The Clash,CBS,1988,Punk,UK,LP,4.4,CAT-1988,Accepted,discogs_sample
+discogs_990,Purple Rain (Reissue 19),Prince,Warner Bros.,1993,Pop,US,LP,3.9,CAT-1989,Accepted,discogs_sample
+discogs_991,Kind of Blue (Reissue 19),Miles Davis,Columbia,1968,Jazz,US,"7""",4.3,CAT-1990,Accepted,discogs_sample
+discogs_992,Pet Sounds (Reissue 19),The Beach Boys,Capitol,1975,Pop,US,LP,3.1,CAT-1991,Accepted,discogs_sample
+discogs_993,Sgt. Pepper's Lonely Hearts Club Band (Reissue 19),The Beatles,Parlophone,1976,Rock,UK,LP,3.7,CAT-1992,Accepted,discogs_sample
+discogs_994,What's Going On (Reissue 19),Marvin Gaye,Tamla,1980,Soul,US,LP,4.0,CAT-1993,Accepted,discogs_sample
+discogs_995,The Dark Side of the Moon (Reissue 19),Pink Floyd,Harvest,1982,Progressive Rock,UK,"12""",2.8,CAT-1994,Accepted,discogs_sample
+discogs_996,Songs in the Key of Life (Reissue 19),Stevie Wonder,Tamla,1985,Soul,US,LP,4.7,CAT-1995,Accepted,discogs_sample
+discogs_997,Rumours (Reissue 19),Fleetwood Mac,Warner Bros.,1986,Rock,US,LP,3.6,CAT-1996,Accepted,discogs_sample
+discogs_998,Unknown Pleasures (Reissue 19),Joy Division,Factory,1988,Post-Punk,UK,"12""",4.6,CAT-1997,Accepted,discogs_sample
+discogs_999,London Calling (Reissue 19),The Clash,CBS,1988,Punk,UK,"12""",3.8,CAT-1998,Accepted,discogs_sample
+discogs_1000,Purple Rain (Reissue 19),Prince,Warner Bros.,1993,Pop,US,"12""",4.6,CAT-1999,Accepted,discogs_sample
