@@ -269,3 +269,10 @@ data/processed/final_enriched_catalog.csv
 data/processed/processed_artists.csv
 data/processed/processed_labels.csv
 data/processed/processed_masters.csv
+
+notebooks/*.csv
+notebooks/filtered_catalog.csv
+notebooks/processed_artists.csv
+notebooks/processed_labels.csv
+notebooks/processed_masters.csv
+
