@@ -254,3 +254,13 @@ data/processed/high_rated_tracks.csv
 
 # Sample/generated data
 data/discogs/sample_discogs_releases.csv
+
+# Real Discogs data files (very large - 33GB total)
+data/discogs/discogs_20250901_*.csv
+
+# Final processed catalogs with real data
+data/processed/final_combined_catalog_real_data.csv
+data/processed/real_discogs_sample.csv
+data/processed/discogs_real_catalog.csv
+data/processed/fma_data_catalog.csv
+data/processed/high_quality_catalog.csv
