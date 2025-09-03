@@ -57,7 +57,28 @@ def clean_dataframe_types(df):
 def load_combined_dataset():
     """Load the real combined FMA + Discogs catalog"""
     
-    # First try to load the combined catalog
+    # First priority: Try to load the final combined catalog with real data
+    final_combined_path = Path("data/processed/final_combined_catalog_real_data.csv")
+    
+    if final_combined_path.exists():
+        try:
+            catalog_df = pd.read_csv(final_combined_path)
+            catalog_df = clean_dataframe_types(catalog_df)
+            
+            # Count records by source
+            source_counts = catalog_df['source'].value_counts() if 'source' in catalog_df.columns else {}
+            fma_count = source_counts.get('fma_data', 0)
+            discogs_count = source_counts.get('discogs_real', 0)
+            
+            st.sidebar.success(f"✅ Loaded REAL data catalog: {len(catalog_df):,} tracks")
+            st.sidebar.info(f"📊 FMA: {fma_count:,} | Real Discogs: {discogs_count:,}")
+            
+            return catalog_df, discogs_count
+            
+        except Exception as e:
+            st.sidebar.error(f"Error loading final catalog: {e}")
+    
+    # Second priority: Try the previous combined catalog
     combined_path = Path("data/processed/combined_catalog_with_discogs.csv")
     
     if combined_path.exists():
@@ -65,13 +86,12 @@ def load_combined_dataset():
             catalog_df = pd.read_csv(combined_path)
             catalog_df = clean_dataframe_types(catalog_df)
             
-            # Count records by source
             source_counts = catalog_df['source'].value_counts() if 'source' in catalog_df.columns else {}
             fma_count = source_counts.get('fma_data', 0)
             discogs_count = source_counts.get('discogs_sample', 0)
             
-            st.sidebar.success(f"✅ Loaded combined catalog: {len(catalog_df):,} tracks")
-            st.sidebar.info(f"📊 FMA: {fma_count:,} | Discogs: {discogs_count:,}")
+            st.sidebar.warning("⚠️ Using sample Discogs data. Run real data integration for full catalog.")
+            st.sidebar.info(f"📊 FMA: {fma_count:,} | Sample Discogs: {discogs_count:,}")
             
             return catalog_df, discogs_count
             
