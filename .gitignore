@@ -234,3 +234,23 @@ query_*.sql
 
 # OS specific
 .DS_Store
+
+# Processed data files (can be regenerated)
+data/processed/combined_catalog_with_disco*.csv
+data/processed/catalog_summary_stats.csv
+data/processed/genre_analysis_report.csv
+data/processed/source_comparison_report.csv
+data/processed/high_rated_tracks.csv
+
+# Sample/generated data
+data/discogs/sample_discogs_releases.csv
+
+# Generated analysis reports
+data/processed/combined_catalog_with_disco*.csv
+data/processed/*_analysis_report.csv
+data/processed/*_comparison_report.csv
+data/processed/catalog_summary_stats.csv
+data/processed/high_rated_tracks.csv
+
+# Sample/generated data
+data/discogs/sample_discogs_releases.csv
