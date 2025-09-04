@@ -276,3 +276,31 @@ notebooks/processed_artists.csv
 notebooks/processed_labels.csv
 notebooks/processed_masters.csv
 
+# Database files (contains processed data that can be regenerated)
+data/database/
+data/database/*.db
+data/database/*.db-journal
+data/database/*.db-wal
+data/database/*.db-shm
+*.sqlite
+*.sqlite3
+*.db
+
+# Additional files that shouldn't be in GitHub
+# Large processed CSV files that can be regenerated
+data/processed/filtered_catalog.csv
+data/processed/processed_artists.csv
+data/processed/processed_labels.csv
+data/processed/processed_masters.csv
+
+# Notebook-generated CSV files (temporary outputs)
+notebooks/*.csv
+notebooks/filtered_catalog.csv
+notebooks/processed_artists.csv
+notebooks/processed_labels.csv
+notebooks/processed_masters.csv
+
+# Python cache in src directories
+src/config/__pycache__/
+src/ai/__pycache__/
+src/analytics/__pycache__/
