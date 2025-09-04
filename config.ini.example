@@ -1,0 +1,32 @@
+# config.ini.example - Configuration template
+# Copy this to config.ini and update with your values
+
+[discogs]
+# Get your token from: https://www.discogs.com/settings/developers
+user_token = YOUR_DISCOGS_TOKEN_HERE
+
+# Directory to store downloaded covers (relative to project root)
+download_directory = data/covers
+
+# Path to your vinyl catalog database
+database_path = data/database/vinyl_catalog.db
+
+# Download settings
+max_concurrent_downloads = 5
+batch_size = 20
+max_image_width = 800
+jpeg_quality = 85
+
+# Rate limiting (requests per minute)
+requests_per_minute = 50
+
+[visual_processing]
+# Enable automatic visual feature extraction for new covers
+auto_extract_features = true
+
+# Minimum image resolution for processing
+min_resolution = 300
+
+# Image preprocessing
+resize_for_analysis = true
+analysis_size = 512

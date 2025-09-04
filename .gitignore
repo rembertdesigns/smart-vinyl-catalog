@@ -320,3 +320,32 @@ data/processed/visual_clusters.pkl
 *.npz
 temp_features/
 visual_analysis_cache/
+
+# ===== DISCOGS COVER INTEGRATION ADDITIONS =====
+
+# Configuration files with API tokens and secrets
+config.ini
+!config.ini.example
+
+# Downloaded album covers (large files, can be re-downloaded)
+data/covers/
+data/covers/*.jpg
+data/covers/*.jpeg
+data/covers/*.png
+data/covers/*.gif
+
+# Cover fetcher logs
+discogs_cover_fetcher.log
+cover_download_*.log
+
+# Temporary image processing files
+temp_covers/
+*.tmp
+*.temp
+
+# Streamlit specific
+.streamlit/
+
+# Additional visual processing cache
+visual_similarity_cache/
+cover_analysis_temp/
