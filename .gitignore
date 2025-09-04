@@ -304,3 +304,19 @@ notebooks/processed_masters.csv
 src/config/__pycache__/
 src/ai/__pycache__/
 src/analytics/__pycache__/
+
+# Album cover files (large images, regenerable)
+data/album_covers/
+data/album_covers/*.png
+data/album_covers/*.jpg
+data/album_covers/*.jpeg
+
+# Visual features cache (can be regenerated from covers)
+data/processed/visual_features.pkl
+data/processed/similarity_matrix.pkl
+data/processed/visual_clusters.pkl
+
+# Computer vision temporary files
+*.npz
+temp_features/
+visual_analysis_cache/
